@@ -26,7 +26,7 @@ with open(args.fa, 'r') as file:
         if line[0] == '>':
             if seq != '':
                 count_kmers(name, seq, k = int(args.kmer))
-            name = line.strip()
+            name = line.strip().split('>')
             seq = ''
         else:
             seq += line.strip()
