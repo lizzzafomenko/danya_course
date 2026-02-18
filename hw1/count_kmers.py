@@ -6,6 +6,8 @@ import json
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--fa')
+parser.add_argument('-k', '--kmer')
+parser.add_argument('-o', '--out')
 
 args = parser.parse_args()
 
@@ -23,13 +25,13 @@ with open(args.fa, 'r') as file:
     for line in file:
         if line[0] == '>':
             if seq != '':
-                count_kmers(name, seq, k = 4)
+                count_kmers(name, seq, k = int(args.kmer))
             name = line.strip()
             seq = ''
         else:
             seq += line.strip()
-    count_kmers(name, seq, k = 4)
+    count_kmers(name, seq, k = int(args.kmer))
 file.close()
 
-with open('cnts.json', 'w') as file:
+with open(args.out, 'w') as file:
     json.dump(out, file, indent=4)
