@@ -1,6 +1,9 @@
 name: 'hw checker'
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 permissions:
   issues: write
