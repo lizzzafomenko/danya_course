@@ -1,6 +1,6 @@
 # описание файлов к домашке 1
 
-### [complement.py](./complement.py)
+## [complement.py](./complement.py)
 
 **Входные параметры:**
 *   --seq: последовательность (днк)
