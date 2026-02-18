@@ -19,10 +19,10 @@ jobs:
           python-version: '3.11'
 
       - name: checking complement.py with ATCGACT
-        run: ./hw1/complement.py --seq ATCGACT > output.log 2>&1
+        run: python3 hw1/complement.py --seq ATCGACT > output.log 2>&1
 
       - name: checling count_kmers.py with test.fna
-        run: ./hw1/complement.py --fa test.fna -k 3 --out out.json >> output.log 2>&1
+        run: python3 hw1/complement.py --fa test.fna -k 3 --out out.json >> output.log 2>&1
 
       - name: creating an issue
         env:
