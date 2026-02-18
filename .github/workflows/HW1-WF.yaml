@@ -1,0 +1,30 @@
+name: 'hw checker'
+
+on: [push]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  hw1_checker:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: setting up python v=3.11...
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: checking complement.py with ATCGACT
+        run: ./hw1/complement.py --seq ATCGACT > output.log 2>&1
+
+      - name: checling count_kmers.py with test.fna
+        run: ./hw1/complement.py --fa test.fna -k 3 --out out.json >> output.log 2>&1
+
+      - name: creating an issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue create --title "HW1 bugs" --body "$(cat output.log)"
