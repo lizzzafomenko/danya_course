@@ -22,7 +22,7 @@ jobs:
         run: python3 hw1/complement.py --seq ATCGACT > output.log 2>&1
 
       - name: checling count_kmers.py with test.fna
-        run: python3 hw1/complement.py --fa test.fna -k 3 --out out.json >> output.log 2>&1
+        run: python3 hw1/complement.py --fa hw1/test.fna -k 3 --out hw1/out.json >> output.log 2>&1
 
       - name: creating an issue
         env:
