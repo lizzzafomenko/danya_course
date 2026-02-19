@@ -3,6 +3,7 @@
 import argparse
 from collections import defaultdict as dd
 import json
+import logging
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--fa')
@@ -10,6 +11,12 @@ parser.add_argument('-k', '--kmer')
 parser.add_argument('-o', '--out')
 
 args = parser.parse_args()
+
+
+logging.basicConfig(level=logging.DEBUG)
+logging.info("input fasta file: {}".format(args.fa))
+logging.info("input kmer length: {}".format(args.kmer))
+logging.info("input output file: {}".format(args.out))
 
 out = {}
 def count_kmers(name, seq, k):
@@ -35,3 +42,5 @@ file.close()
 
 with open(args.out, 'w') as file:
     json.dump(out, file, indent=4)
+
+logging.info("done!")
