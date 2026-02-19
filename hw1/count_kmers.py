@@ -12,9 +12,7 @@ parser.add_argument('-o', '--out')
 
 args = parser.parse_args()
 
-#
-# Logging initialization
-#
+
 logging.basicConfig(level=logging.DEBUG)
 logging.info("script name: {}".format(args[0]))
 logging.info("input fasta file: {}".format(args.fa))
