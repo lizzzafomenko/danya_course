@@ -9,7 +9,6 @@ parser.add_argument('-s', '--seq')
 args = parser.parse_args()
 
 logging.basicConfig(level=logging.DEBUG)
-logging.info("script name: {}".format(args[0]))
 logging.info("input sequence: {}".format(args.seq))
 
 nucl = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A'}

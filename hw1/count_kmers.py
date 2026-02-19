@@ -14,7 +14,6 @@ args = parser.parse_args()
 
 
 logging.basicConfig(level=logging.DEBUG)
-logging.info("script name: {}".format(args[0]))
 logging.info("input fasta file: {}".format(args.fa))
 logging.info("input kmer length: {}".format(args.kmer))
 logging.info("input output file: {}".format(args.out))
