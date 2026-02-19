@@ -29,4 +29,6 @@
 ветка с поломанным файлом - `wrokflow-testing`, в ней сделала сплит строки `test.fna` по `>` и взяла 10000 элемент => все ложилось.
 
 При попытке сделать `pull-request` вылазит ошибка следующего характера:
+<img width="939" height="312" alt="Screenshot 2026-02-19 at 11 18 06" src="https://github.com/user-attachments/assets/a8e5dfb3-8bf3-47e7-ae35-27a8205e6bfb" />
 
+`merge` не проходит, ветка `main` остается без изменений
