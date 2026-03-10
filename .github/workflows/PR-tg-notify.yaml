@@ -80,5 +80,5 @@ jobs:
           }
 
           response = requests.post(f'https://api.telegram.org/bot{token}/sendMessage', json=payload)
-          end_script   
+end_script   
 
