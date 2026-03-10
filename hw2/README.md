@@ -26,8 +26,7 @@
 *   `--out` (`-o`): выходной файл png с графом
 
 Рисует конечно лютую мешанину. потому что дохрена вершин и дохрена ребер. Граф справедливости ради должен быть ориентированным) стрелки ваще указала в параметрах отрисовки, но ниче не видно, увы
-![Alexander Dyakonov Graph](graph.png)
 
-<img src="graph.png" alt="Alexander Dyakonov Graph" width="400" height="250">
+<img src="graph.png" alt="Alexander Dyakonov Graph" width="400" height="400">
 
 
