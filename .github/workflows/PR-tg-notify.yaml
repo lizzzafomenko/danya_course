@@ -43,42 +43,42 @@ jobs:
           repo_name: ${{ github.repository }}
 
         run: |
-          python << 'EOF'
-import os
-import requests
+          python << 'end_script'
+          import os
+          import requests
 
-token = os.environ.get("token")
-chat_id = os.environ.get("chat_id")
-pr_user = os.environ.get("PR_user")
-pr_title = os.environ.get("PR_title")
-pr_url = os.environ.get("PR_url")
-pr_time = os.environ.get("PR_time")
-pr_files = os.environ.get("changed_files")
-repo_name = os.environ.get("repo_name")
+          token = os.environ.get("token")
+          chat_id = os.environ.get("chat_id")
+          pr_user = os.environ.get("PR_user")
+          pr_title = os.environ.get("PR_title")
+          pr_url = os.environ.get("PR_url")
+          pr_time = os.environ.get("PR_time")
+          pr_files = os.environ.get("changed_files")
+          repo_name = os.environ.get("repo_name")
 
-pr_files = '\n'.join(['\t-\t {file}' for file in pr_files.split('\n')])
+          pr_files = '\n'.join([f'\t-\t {file}' for file in pr_files.split('\n')])
 
-message = open('hw2/message.txt').read()
+          message = open('hw2/message.txt').read()
 
-notification = f"""
-# **OMG!! new pull-request <3**
+          notification = f"""
+          # **OMG!! new pull-request <3**
 
-**Новый PR от @{pr_user} в репозиторий {repo_name}!!!**
-**Название:** `'{pr_title}'`
-**Дата и время создания:** `{pr_time}`
-**Ссылочка:** [{pr_url}]({pr_url})
-**Измененные файлы:**
-{pr_files}
+          **Новый PR от @{pr_user} в репозиторий {repo_name}!!!**
+          **Название:** `'{pr_title}'`
+          **Дата и время создания:** `{pr_time}`
+          **Ссылочка:** [{pr_url}]({pr_url})
+          **Измененные файлы:**
+          {pr_files}
 
-**Текст в message.txt:**
-{message}
-"""
-payload = {
+          **Текст в message.txt:**
+          {message}
+          """
+          payload = {
             'chat_id': chat_id,
             'text': notification,
             'parse_mode': 'Markdown'
           }
 
-response = requests.post(f'https://api.telegram.org/bot{token}/sendMessage', json=payload)
-EOF   
+          response = requests.post(f'https://api.telegram.org/bot{token}/sendMessage', json=payload)
+          end_script   
 
