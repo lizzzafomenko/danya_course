@@ -34,6 +34,7 @@
 ### [`.github/workflows/PR-tg-notify.yaml`](.github/workflows/PR-tg-notify.yaml)
 
 сделала доп ветку `test`, в ней поменяла сообщение в `message.txt` и в `PR-tg-notify.yaml`. посмотрим, что прислал бот:
+
 <img width="595" height="525" alt="Screenshot 2026-03-10 at 22 23 47" src="https://github.com/user-attachments/assets/f66af736-578e-4590-8afc-926f17efd261" />
 
 сработало нормально! ура
