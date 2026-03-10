@@ -74,7 +74,7 @@ jobs:
           """
           output = ''
           for char in notification:
-            if char in symbols_to_escape = ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']:
+            if char in ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']:
               output += f'\{char}'
             else:
               output += char
