@@ -60,7 +60,7 @@ jobs:
 
           message = open('hw2/message.txt').read()
 
-          notification = f'''
+          notification = f"""
           **OMG!! new pull-request <3**
           **Новый PR от @{pr_user} в репозиторий {repo_name}!!!**
           **Название:** `'{pr_title}'`
@@ -71,13 +71,7 @@ jobs:
 
           **Текст в message.txt:**
           {message}
-          '''
-          payload = {
-            'chat_id': chat_id,
-            'text': notification,
-            'parse_mode': 'Markdown'
-          }
-          print(notification)
-          print('making response')
-          response = requests.post(f'https://api.telegram.org/bot{token}/sendMessage', json=payload)
+          """
+          url = f"https://api.telegram.org/bot{token}/sendMessage?chat_id={chat_id}&parse_mode=Markdown&text={notification)}"
+          requests.get(url)
           EOF
