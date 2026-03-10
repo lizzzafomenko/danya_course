@@ -74,8 +74,8 @@ jobs:
           """
           output = ''
           for char in notification:
-            if char == '_':
-              output += '\_'
+            if char in symbols_to_escape = ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']:
+              output += f'\{char}'
             else:
               output += char
           payload = {
