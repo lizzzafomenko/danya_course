@@ -74,8 +74,8 @@ jobs:
           """
           output = ''
           for char in notification:
-            if char in ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']:
-              output += f'\{char}'
+            if char == '_':
+              output += f'\_'
             else:
               output += char
           payload = {
