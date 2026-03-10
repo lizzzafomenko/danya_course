@@ -72,6 +72,6 @@ jobs:
           **Текст в message.txt:**
           {message}
           """
-          url = f"https://api.telegram.org/bot{token}/sendMessage?chat_id={chat_id}&parse_mode=Markdown&text={notification)}"
+          url = f"https://api.telegram.org/bot{token}/sendMessage?chat_id={chat_id}&parse_mode=Markdown&text={notification}"
           requests.get(url)
           EOF
