@@ -1,0 +1,3866 @@
+{
+    "Alexander_Dyakonov": [
+        "MSU_CMC",
+        "Moscow_State_University",
+        "Moscow",
+        "Doctoral_advisor",
+        "MSU_CMC"
+    ],
+    "MSU_CMC": [
+        "Sun_Microsystems",
+        "Systems_analysis",
+        "Tikhon_Moiseev",
+        "Numerical_methods",
+        "Nikolai_Kapustin_(mathematician)"
+    ],
+    "Moscow_State_University": [
+        "Pontifical_Catholic_University_of_Rio_de_Janeiro",
+        "University_of_Denver",
+        "Nikolay_Sklifosovskiy",
+        "Sciences_Po",
+        "University_of_Tirana"
+    ],
+    "Moscow": [
+        "Eastern_Europe",
+        "Soviet_Union",
+        "Donskoy_Monastery",
+        "Arbat_Street",
+        "Izmaylovsky_Park"
+    ],
+    "Doctoral_advisor": [
+        "Education_in_the_Netherlands#Tertiary_education",
+        "Ius_promovendi",
+        "University",
+        "ISBN_(identifier)",
+        "Doctorate"
+    ],
+    "Sun_Microsystems": [
+        "Tuxedo_(software)",
+        "Oracle_ZFS",
+        "Oracle_Forms",
+        "Oracle_Labs",
+        "Oracle_Corporation"
+    ],
+    "Systems_analysis": [
+        "Decision_maker",
+        "Kevin_C._Dittman",
+        "System_dynamics",
+        "Business_analyst",
+        "Futures_studies"
+    ],
+    "Tikhon_Moiseev": [
+        "Evgeny_Moiseev",
+        "ISBN_(identifier)",
+        "Mathematics",
+        "Professor_(highest_academic_rank)",
+        "Russian_mathematician"
+    ],
+    "Numerical_methods": [
+        "Complex_Numbers",
+        "Well-posed_problem_(numerical_analysis)",
+        "Real_number",
+        "Lipschitz_continuity",
+        "Numerical_methods_for_ordinary_differential_equations"
+    ],
+    "Nikolai_Kapustin_(mathematician)": [
+        "Moscow_State_University",
+        "ISBN_(identifier)",
+        "Russian_language",
+        "Doctor_of_Science",
+        "Vladimir_Ilyin_(mathematician)"
+    ],
+    "Pontifical_Catholic_University_of_Rio_de_Janeiro": [
+        "Military_dictatorship_in_Brazil",
+        "Universidade_Feevale",
+        "Engineering",
+        "Bah%C3%A1%CA%BC%C3%AD_Faith_in_Brazil",
+        "Beijing_Normal_University"
+    ],
+    "University_of_Denver": [
+        "U.S._News_%26_World_Report",
+        "Fort_Collins,_Colorado",
+        "Denver_Boone",
+        "California_State_University,_Sacramento",
+        "West_Colfax,_Denver"
+    ],
+    "Nikolay_Sklifosovskiy": [
+        "Transnistria",
+        "Kiev",
+        "Saint_Petersburg",
+        "Poltava",
+        "The_Outstanding_People_of_Pridnestrovie"
+    ],
+    "Sciences_Po": [
+        "Wayback_Machine",
+        "Paris_1_Panth%C3%A9on-Sorbonne_University",
+        "Mario_Draghi",
+        "List_of_universities_and_colleges_in_France",
+        "Franco-Prussian_War"
+    ],
+    "University_of_Tirana": [
+        "Albania",
+        "Arena_Komb%C3%ABtare",
+        "King%27s_College_London",
+        "Education_in_Albania",
+        "FK_Partizani_Tirana"
+    ],
+    "Eastern_Europe": [
+        "Hungary",
+        "Economy_of_the_European_Union",
+        "JSTOR_(identifier)",
+        "Golden_Age_of_Bulgaria",
+        "Climate_of_Europe"
+    ],
+    "Soviet_Union": [
+        "Economic_sanctions",
+        "Mercer_University_Press",
+        "ISBN_(identifier)",
+        "Lenin_(1957_icebreaker)",
+        "Dissolution_of_the_Soviet_Union"
+    ],
+    "Donskoy_Monastery": [
+        "Sergii_Radonezhsky",
+        "Fishery",
+        "Russian_Orthodox_Church",
+        "Dadiani",
+        "Ivanovsky_Convent"
+    ],
+    "Arbat_Street": [
+        "Ivan_IV_of_Russia",
+        "Volga_River",
+        "Communist_Party_of_the_Soviet_Union",
+        "Soviet_Union",
+        "Tverskaya_Street"
+    ],
+    "Izmaylovsky_Park": [
+        "Moscow_metro",
+        "Hedgehog",
+        "Moscow_Metro",
+        "Partizanskaya_(Moscow_Metro)",
+        "Urban_forest"
+    ],
+    "Education_in_the_Netherlands#Tertiary_education": [
+        "Dutch_cuisine",
+        "Education_in_Angola",
+        "Constitution_of_the_Netherlands",
+        "Geography",
+        "Prince-Bishopric_of_Utrecht"
+    ],
+    "Ius_promovendi": [
+        "Friedrich_Althoff",
+        "Doctoral_advisor",
+        "ISBN_(identifier)",
+        "Academic_ranks_in_the_Netherlands",
+        "Higher_education_in_Germany"
+    ],
+    "University": [
+        "Education_in_Liberia",
+        "Cathedral_school",
+        "University_of_Padua",
+        "ISBN_(identifier)",
+        "Philipp_Melanchthon"
+    ],
+    "ISBN_(identifier)": [
+        "ISO_2015",
+        "Dynamic_Adaptive_Streaming_over_HTTP",
+        "Cloud_Infrastructure_Management_Interface",
+        "ISO_3103",
+        "IEC_27005"
+    ],
+    "Doctorate": [
+        "Professor",
+        "Education_in_Russia#Traditional_model",
+        "Doctor_of_Letters",
+        "Master%27s_degree_in_Europe",
+        "European_Credit_Transfer_and_Accumulation_System"
+    ],
+    "Tuxedo_(software)": [
+        "COBOL",
+        "BEA_Systems",
+        "MySQL",
+        "SQL",
+        "Oracle_Corporation"
+    ],
+    "Oracle_ZFS": [
+        "Amiga_Fast_File_System",
+        "High_Performance_File_System",
+        "Datalight#Reliance_Nitro",
+        "StorageTek_SL8500",
+        "Smart_File_System"
+    ],
+    "Oracle_Forms": [
+        "OCFS2",
+        "Oracle_Database",
+        "Memory_(storage_engine)",
+        "Maxine_Virtual_Machine",
+        "SPARC"
+    ],
+    "Oracle_Labs": [
+        "Cobalt_Networks",
+        "JavaStation",
+        "Procom_Technology",
+        "Sun_Microsystems",
+        "Sun386i"
+    ],
+    "Oracle_Corporation": [
+        "Alibaba_Cloud",
+        "David_Litchfield",
+        "Clarivate",
+        "Reading,_Berkshire",
+        "Digital_Equipment_Corporation"
+    ],
+    "Decision_maker": [
+        "PMID_(identifier)",
+        "S2CID_(identifier)",
+        "Reference_class_forecasting",
+        "Strategic_management",
+        "Psychology"
+    ],
+    "Kevin_C._Dittman": [
+        "Florida_Institute_of_Technology",
+        "Wayback_Machine",
+        "Bentley,_Lonnie_D.",
+        "Purdue_University",
+        "Lonnie_D._Bentley"
+    ],
+    "System_dynamics": [
+        "United_Kingdom",
+        "Kenneth_E._Boulding",
+        "Risk_management",
+        "ISBN_(identifier)",
+        "Jay_Forrester"
+    ],
+    "Business_analyst": [
+        "Resource",
+        "Systems_analyst",
+        "Business_process",
+        "Data_science",
+        "ISBN_(identifier)"
+    ],
+    "Futures_studies": [
+        "Scenario_planning",
+        "Robert_Jungk",
+        "High-level_design",
+        "Corrugated_box_design",
+        "Strategic_Foresight_Group"
+    ],
+    "Evgeny_Moiseev": [
+        "Lenin_Komsomol_Prize",
+        "PhD",
+        "MSU_CMC",
+        "ISBN_(identifier)",
+        "Order_of_Friendship"
+    ],
+    "Mathematics": [
+        "National_Research_Council_(United_States)",
+        "Subset",
+        "Coding_theory",
+        "JSTOR_(identifier)",
+        "S2CID_(identifier)"
+    ],
+    "Professor_(highest_academic_rank)": [
+        "Academic_ranks_in_Russia",
+        "Cornell_University",
+        "Magister_degree",
+        "Social_class_in_Haiti",
+        "Social_mobility"
+    ],
+    "Russian_mathematician": [
+        "Lazar_Lyusternik",
+        "Transcendentals",
+        "Adams%E2%80%93Novikov_spectral_sequence",
+        "Efim_Zelmanov",
+        "Multi-valued_logic"
+    ],
+    "Complex_Numbers": [
+        "Sine",
+        "Special_relativity",
+        "S2CID_(identifier)",
+        "Circular_motion#Using_complex_numbers",
+        "MR_(identifier)"
+    ],
+    "Well-posed_problem_(numerical_analysis)": [
+        "ArXiv_(identifier)",
+        "Method_of_characteristics",
+        "Difference_equation",
+        "Green%27s_function",
+        "Crank%E2%80%93Nicolson_method"
+    ],
+    "Real_number": [
+        "Additive_inverse",
+        "Countably_infinite",
+        "Fraction_(mathematics)",
+        "Descartes",
+        "Magnitude_(mathematics)"
+    ],
+    "Lipschitz_continuity": [
+        "Germany",
+        "Uniformly_continuous",
+        "Discrete_space",
+        "Continuously_differentiable",
+        "Arzel%C3%A0%E2%80%93Ascoli_theorem"
+    ],
+    "Numerical_methods_for_ordinary_differential_equations": [
+        "General_linear_methods",
+        "Shooting_method",
+        "Computational_mathematics",
+        "Tangent",
+        "Algebra_of_physical_space"
+    ],
+    "Russian_language": [
+        "Inflection",
+        "List_of_Russian_language_topics",
+        "Suzhou_dialect",
+        "Baltic_Romani",
+        "Voiceless_alveolo-palatal_affricate"
+    ],
+    "Doctor_of_Science": [
+        "NU_of_LP",
+        "Privatdozent",
+        "Francis_Michael_Longstreth_Thompson",
+        "Graduate_diploma",
+        "NU_of_the_S"
+    ],
+    "Vladimir_Ilyin_(mathematician)": [
+        "Monograph",
+        "Mikhail_Gennadiyevich_Dmitriyev",
+        "Moscow_State_University",
+        "Lax_pair",
+        "USSR_State_Prize"
+    ],
+    "Military_dictatorship_in_Brazil": [
+        "Afro-Brazilian_history",
+        "Algerian_War",
+        "Import_substitution",
+        "Proclamation_of_the_Republic_(Brazil)",
+        "Coat_of_arms_of_Brazil"
+    ],
+    "Universidade_Feevale": [
+        "United_Kingdom_of_Portugal,_Brazil_and_the_Algarves",
+        "University_of_Cruz_Alta",
+        "History_of_Brazil",
+        "Laborat%C3%B3rio_Nacional_de_Luz_S%C3%ADncrotron",
+        "Brazilian_jurisdictional_waters"
+    ],
+    "Engineering": [
+        "Passenger_rail",
+        "Fields_of_engineering",
+        "Float_glass",
+        "Fine_chemical",
+        "Pigment"
+    ],
+    "Bah%C3%A1%CA%BC%C3%AD_Faith_in_Brazil": [
+        "B%C3%A1bism",
+        "Hidden_Words",
+        "Paraguay",
+        "Cancellation_(mail)",
+        "Cuba"
+    ],
+    "Beijing_Normal_University": [
+        "Minister_of_Education",
+        "Beihai_Park",
+        "Changping_North_railway_station",
+        "China_Railway",
+        "National_Institute_of_Amazonian_Research"
+    ],
+    "U.S._News_%26_World_Report": [
+        "Wagon",
+        "United_States_Senate",
+        "Urology",
+        "Northwestern_University",
+        "Pomona_College"
+    ],
+    "Fort_Collins,_Colorado": [
+        "Ca%C3%B1on_City,_Colorado",
+        "United_States_men%27s_national_soccer_team",
+        "K%C3%B6ppen_climate_classification",
+        "Fort_Carson#Camp_Carson",
+        "List_of_Colorado_state_symbols"
+    ],
+    "Denver_Boone": [
+        "NCAA_Division_II",
+        "The_Walt_Disney_Company",
+        "Milwaukee",
+        "Annapolis",
+        "College_Station,_Texas"
+    ],
+    "California_State_University,_Sacramento": [
+        "Sacramento_State_Hornets",
+        "Julia_Morgan",
+        "California_State_University_Channel_Islands",
+        "Pulitzer_Prize",
+        "Pepperdine_Waves"
+    ],
+    "West_Colfax,_Denver": [
+        "Chaffee_Park,_Denver",
+        "Central_Park,_Denver",
+        "16th_Street_Mall",
+        "Regis_University",
+        "Morrison,_Colorado"
+    ],
+    "Transnistria": [
+        "Asymmetric_federalism",
+        "Inter_RAO",
+        "Transnistria_(disambiguation)",
+        "Moldovans",
+        "Andrei_Stratan"
+    ],
+    "Kiev": [
+        "Life_(magazine)",
+        "Taras_Shevchenko_National_University_of_Kyiv",
+        "ISBN_(identifier)",
+        "Potsdam",
+        "Sevastopol"
+    ],
+    "Saint_Petersburg": [
+        "Tirana",
+        "Quebec_City",
+        "List_of_theatres_in_Saint_Petersburg",
+        "Kurgan_Oblast",
+        "SKA_Saint_Petersburg"
+    ],
+    "Poltava": [
+        "Operation_Frantic",
+        "Ukrainian_language",
+        "1956_Summer_Olympics",
+        "Yitzhak_Ben-Zvi",
+        "Grand_Duchy_of_Lithuania"
+    ],
+    "The_Outstanding_People_of_Pridnestrovie": [
+        "Moldova",
+        "Kazakhstani_tenge",
+        "Kopeck",
+        "Russian_language",
+        "List_of_political_parties_in_Transnistria"
+    ],
+    "Wayback_Machine": [
+        "Institut_de_l%27information_scientifique_et_technique",
+        "Doi_(identifier)",
+        "Gopher_(protocol)",
+        "Bruce_Gilliat",
+        "Hdl_(identifier)"
+    ],
+    "Paris_1_Panth%C3%A9on-Sorbonne_University": [
+        "Sorbonne_University",
+        "Alpha_Cond%C3%A9",
+        "5th_arrondissement_of_Paris",
+        "Latin_Quarter,_Paris",
+        "Higher_education_in_France"
+    ],
+    "Mario_Draghi": [
+        "Giuseppe_Saracco",
+        "Bank_for_International_Settlements",
+        "Emmanuel_Macron",
+        "Fortune_(magazine)",
+        "Pierre_Werner"
+    ],
+    "List_of_universities_and_colleges_in_France": [
+        "Institut_national_sup%C3%A9rieur_de_formation_et_de_recherche_pour_l%27%C3%A9ducation_inclusive",
+        "Toulouse_Capitole_University",
+        "University_of_Montpellier_Paul_Val%C3%A9ry",
+        "Avignon_University",
+        "University_of_Toulouse"
+    ],
+    "Franco-Prussian_War": [
+        "Siege_of_Metz_(1870)",
+        "Drouyn_de_Lhuys",
+        "Moselle_(department)",
+        "Battle_of_Havana_(1870)",
+        "Confederation_of_the_Rhine"
+    ],
+    "Albania": [
+        "List_of_countries_by_life_expectancy",
+        "Albanian_Power_Corporation",
+        "Albanian_art",
+        "Geography_of_Albania",
+        "History_of_Albania"
+    ],
+    "Arena_Komb%C3%ABtare": [
+        "Kapllan_Pasha_Tomb",
+        "Czech_Republic",
+        "Petro_Ruci_Stadium",
+        "Invitation_to_tender",
+        "Sali_Berisha"
+    ],
+    "King%27s_College_London": [
+        "Tech_City_College",
+        "Liddell_Hart_Centre_for_Military_Archives",
+        "London_Interdisciplinary_School",
+        "List_of_Nobel_laureates",
+        "King%27s_College_London_Faculty_of_Arts_and_Humanities"
+    ],
+    "Education_in_Albania": [
+        "Institution_of_Public_Commissioners_(Albania)",
+        "Shkodra",
+        "Malissori_uprising",
+        "Municipalities_of_Albania",
+        "Kingdom_of_Albania_in_personal_union_with_Italy"
+    ],
+    "FK_Partizani_Tirana": [
+        "KF_T%C3%ABrbuni_Puk%C3%AB",
+        "Portugal",
+        "Kategoria_Superiore",
+        "2023%E2%80%9324_UEFA_Europa_Conference_League#Second_qualifying_round",
+        "Neptun_Bajko"
+    ],
+    "Hungary": [
+        "Asian_Infrastructure_Investment_Bank",
+        "Hungarian_Central_Statistical_Office",
+        "Czech_Republic",
+        "CIA_World_Factbook",
+        "Historicism"
+    ],
+    "Economy_of_the_European_Union": [
+        "Inflation",
+        "Protectionism",
+        "TRIPS_Agreement",
+        "Belgium",
+        "Trade_agreement"
+    ],
+    "JSTOR_(identifier)": [
+        "Academic_publishing",
+        "Princeton_University",
+        "Bibliographic_database",
+        "Learning_management_system",
+        "ArXiv_(identifier)"
+    ],
+    "Golden_Age_of_Bulgaria": [
+        "First_Bulgarian_Empire",
+        "Round_Church,_Preslav",
+        "Pottery",
+        "Preslav",
+        "Naum_of_Preslav"
+    ],
+    "Climate_of_Europe": [
+        "Seville",
+        "Climate_of_Sweden",
+        "Cyclone_Ianos",
+        "Baetic_Depression",
+        "Climate_of_Portugal"
+    ],
+    "Economic_sanctions": [
+        "Transshipment",
+        "SSRN_(identifier)",
+        "Mastercard",
+        "Countering_America%27s_Adversaries_Through_Sanctions_Act",
+        "Sanctions_against_North_Korea"
+    ],
+    "Mercer_University_Press": [
+        "ISBN_(identifier)",
+        "Brian_Kemp",
+        "Flannery_O%E2%80%99Connor",
+        "Monroe_F._Swilley_Jr._Library",
+        "Allman_Brothers_Band"
+    ],
+    "Lenin_(1957_icebreaker)": [
+        "Svyataya_Anna",
+        "Jacob_van_Heemskerck",
+        "Vladimir_Lenin",
+        "Cadwalader_Ringgold",
+        "James_Hall_(explorer)"
+    ],
+    "Dissolution_of_the_Soviet_Union": [
+        "1989%E2%80%931991_Ukrainian_revolution",
+        "January_Events",
+        "Kazakh_Soviet_Socialist_Republic",
+        "Open_access_in_Russia",
+        ".su"
+    ],
+    "Sergii_Radonezhsky": [
+        "Pope_Mark",
+        "Lutheranism",
+        "Novi_Sad",
+        "Incorruptibility",
+        "Simon_the_Zealot"
+    ],
+    "Fishery": [
+        "Spawning_bed",
+        "Cladistic",
+        "EconMult",
+        "Aquaculture_in_the_Philippines",
+        "Culture_of_microalgae_in_hatcheries"
+    ],
+    "Russian_Orthodox_Church": [
+        "Chersonesus",
+        "Diocese_of_Birobidzhan",
+        "List_of_Eastern_Orthodox_saint_titles",
+        "Orthodox_Church_of_the_Czech_Lands_and_Slovakia",
+        "Bishop"
+    ],
+    "Dadiani": [
+        "Salome_Dadiani",
+        "Mingrelia",
+        "David_Dadiani",
+        "Mingrelia",
+        "Niko_Dadiani,_Prince_of_Megrelia"
+    ],
+    "Ivanovsky_Convent": [
+        "Darya_Nikolayevna_Saltykova",
+        "Ugresha_Monastery",
+        "Stauropegic",
+        "Epiphany_Monastery",
+        "Krutitsy"
+    ],
+    "Ivan_IV_of_Russia": [
+        "Karelia",
+        "Peter_II_of_Russia",
+        "Poles_(people)",
+        "Kazan_Khanate",
+        "Oprichnina"
+    ],
+    "Volga_River": [
+        "Amgun",
+        "Mayn",
+        "Volsk",
+        "Chapayevka_(river)",
+        "Eldar_Ryazanov"
+    ],
+    "Communist_Party_of_the_Soviet_Union": [
+        "Soviet_of_Nationalities",
+        "Communist_Party_of_Kirghizia",
+        "ISBN_(identifier)",
+        "Secretariat_of_the_17th_Congress_of_the_All-Union_Communist_Party_(Bolsheviks)",
+        "Alania_(political_party)"
+    ],
+    "Tverskaya_Street": [
+        "Yuri_Dolgoruky",
+        "List_of_heads_of_Moscow_government",
+        "Moscow",
+        "Mayakovskaya_(Moscow_Metro)",
+        "Stalinist_architecture"
+    ],
+    "Moscow_metro": [
+        "Bolshaya_Koltsevaya_line",
+        "Ulitsa_Dmitriyevskogo",
+        "767",
+        "Komsomolskaya_(Koltsevaya_line)",
+        "Krymskaya_(Moscow_Central_Circle)"
+    ],
+    "Hedgehog": [
+        "Kivu_shrew",
+        "Crosse%27s_shrew",
+        "Mammal",
+        "The_Guardian",
+        "10th_edition_of_Systema_Naturae"
+    ],
+    "Moscow_Metro": [
+        "Kalininskaya_line",
+        "Serpukhovsko-Timiryazevskaya_line",
+        "Tsaritsyno_(Moscow_Metro)",
+        "General_Staff_of_the_Armed_Forces_of_the_Russian_Federation",
+        "Okhotny_Ryad_(metro)"
+    ],
+    "Partizanskaya_(Moscow_Metro)": [
+        "Moscow_Central_Circle",
+        "Tekhnopark_(Zamoskvoretskaya_line)",
+        "Arbatskaya_(Filyovskaya_line)",
+        "Trubnaya_(Moscow_Metro)",
+        "Kotelniki_(Moscow_Metro)"
+    ],
+    "Urban_forest": [
+        "Great_Green_Wall_(Africa)",
+        "Wood_processing",
+        "Programme_for_the_Endorsement_of_Forest_Certification",
+        "South_Africa",
+        "Biophilia_hypothesis"
+    ],
+    "Dutch_cuisine": [
+        "French_fries",
+        "Cheese",
+        "Malawian_cuisine",
+        "Groat_(grain)",
+        "Beer"
+    ],
+    "Education_in_Angola": [
+        "Angolan_Civil_War",
+        "Education_in_Guyana",
+        "Education_in_Somalia",
+        "Outline_of_Angola",
+        "Education_in_Poland"
+    ],
+    "Constitution_of_the_Netherlands": [
+        "Lower_house",
+        "Burgemeester",
+        "Coat_of_arms_of_the_Netherlands",
+        "Liberation_Day_(Netherlands)",
+        "Kingdom_of_the_Netherlands"
+    ],
+    "Geography": [
+        "Ptolemy",
+        "Geisteswissenschaft",
+        "Bibcode_(identifier)",
+        "Yi-Fu_Tuan",
+        "Culture_theory"
+    ],
+    "Prince-Bishopric_of_Utrecht": [
+        "Burgundian_Circle",
+        "County_of_Pyrmont",
+        "List_of_lakes_of_the_Netherlands",
+        "Diocese_of_Utrecht_(695%E2%80%931580)",
+        "Polder_model"
+    ],
+    "Friedrich_Althoff": [
+        "Otto_von_Bismarck",
+        "Johns_Hopkins_University",
+        "University_of_Chicago",
+        "Humboldt_University_of_Berlin",
+        "University_of_T%C3%BCbingen"
+    ],
+    "Academic_ranks_in_the_Netherlands": [
+        "Associate_instructor",
+        "Academic_ranks_in_the_Czech_Republic_and_in_Slovakia",
+        "Academic_tenure",
+        "Associate_lecturer",
+        "Academic_ranks_in_Denmark"
+    ],
+    "Higher_education_in_Germany": [
+        "Middle_German_Chemical_Triangle",
+        "Education_in_Turkey",
+        "Foreign_relations_of_Germany",
+        "University_cafeteria",
+        "List_of_cities_and_towns_in_Germany"
+    ],
+    "Education_in_Liberia": [
+        "Education_in_Mali",
+        "Education_in_Andorra",
+        "Education_in_Uruguay",
+        "Education_in_Eswatini",
+        "Education_in_Bahrain"
+    ],
+    "Cathedral_school": [
+        "Comprehensive_high_school",
+        "Arlington,_Virginia",
+        "Christian_school",
+        "Toronto",
+        "Link%C3%B6ping"
+    ],
+    "University_of_Padua": [
+        "Alexandru_Ioan_Cuza_University",
+        "University_of_Camerino",
+        "Gianfranco_Folena",
+        "RWTH_Aachen_University",
+        "Palestine_Polytechnic_University"
+    ],
+    "Philipp_Melanchthon": [
+        "Protestant_Reformation",
+        "ISBN_(identifier)",
+        "On_the_Babylonian_Captivity_of_the_Church",
+        "G._D._Melanchthon",
+        "All_Saints%27_Church,_Wittenberg"
+    ],
+    "ISO_2015": [
+        "IEC_7812",
+        "ISO_4157",
+        "ISO_10303",
+        "LCEVC",
+        "ISO_14698"
+    ],
+    "Dynamic_Adaptive_Streaming_over_HTTP": [
+        "Advanced_Video_Coding",
+        "Unified_Speech_and_Audio_Coding",
+        "Media_Source_Extensions",
+        "MPEG_LA",
+        "Doi_(identifier)"
+    ],
+    "Cloud_Infrastructure_Management_Interface": [
+        "File_Allocation_Table",
+        "PDF417",
+        "ISO_2015",
+        "ArmSCII",
+        "Romanization_of_Armenian"
+    ],
+    "ISO_3103": [
+        "Tea_processing",
+        "Requirements_engineering",
+        "Taiping_houkui",
+        "Kappa_number",
+        "UA"
+    ],
+    "IEC_27005": [
+        "Legal_Entity_Identifier",
+        "ISO_15926_WIP",
+        "International_Standard_Audiovisual_Number",
+        "IEC_8859-4",
+        "Prontor-Compur"
+    ],
+    "Professor": [
+        "Socioeconomic_mobility_in_the_United_States",
+        "Robber_baron_(industrialist)",
+        "Absent-minded_professor",
+        "Oligarchy",
+        "The_Paper_Chase_(film)"
+    ],
+    "Education_in_Russia#Traditional_model": [
+        "Mordvins",
+        "Education_in_Turkey",
+        "Vepsian",
+        "Moscow_Engineering_Physics_Institute",
+        "International_Standard_Classification_of_Education"
+    ],
+    "Doctor_of_Letters": [
+        "Higher_doctorate",
+        "D.D.",
+        "Higher_National_Diploma",
+        "Habilitation",
+        "Master_of_Arts_(Oxford,_Cambridge_and_Dublin)"
+    ],
+    "Master%27s_degree_in_Europe": [
+        "Master_of_Advanced_Studies",
+        "Bologna_process",
+        "R%C3%A9pertoire_national_des_certifications_professionnelles",
+        "Master%27s_degree_in_the_United_Kingdom",
+        "Master_of_Arts_(Oxbridge)"
+    ],
+    "European_Credit_Transfer_and_Accumulation_System": [
+        "European_Higher_Education_Area",
+        "Education_in_the_Czech_Republic",
+        "European_Higher_Education_Area",
+        "European_Higher_Education_Area",
+        "Crediti_formativi_universitari"
+    ],
+    "COBOL": [
+        "Topic_map",
+        "ISO_19092-2",
+        "ISO_128",
+        "George_Radin",
+        "ANSI"
+    ],
+    "BEA_Systems": [
+        "Java_Platform,_Enterprise_Edition",
+        "OpenJDK",
+        "XQuery",
+        "JRockit",
+        "Oracle_Exalogic"
+    ],
+    "MySQL": [
+        "Ultra_30",
+        "FileMaker_Pro",
+        "The_Network_is_the_Computer",
+        "InnoDB",
+        "Adminer"
+    ],
+    "SQL": [
+        "MySQL",
+        "Ackermann_function#cite_note-10",
+        "Oracle_NoSQL_Database",
+        "Oracle_SQL_Developer",
+        "Oracle_VM_Server_for_x86"
+    ],
+    "Amiga_Fast_File_System": [
+        "Davfs2",
+        "Aquaria_(video_game)",
+        "Datalight#Reliance_Nitro",
+        "FAT_filesystem_and_Linux",
+        "List_of_file_systems"
+    ],
+    "High_Performance_File_System": [
+        "Filesystem-level_encryption",
+        "Kernfs_(BSD)",
+        "Moshe_Dunie",
+        "SSHFS",
+        "StorNext_File_System"
+    ],
+    "Datalight#Reliance_Nitro": [
+        "MyDOS",
+        "360",
+        "SORT_(DOS_command)",
+        "RESTORE_(DOS_command)",
+        "Vol_(command)"
+    ],
+    "StorageTek_SL8500": [
+        "Common_Development_and_Distribution_License",
+        "Montalvo_Systems",
+        "UltraSPARC_III",
+        "Sun4d",
+        "Lustre_(file_system)"
+    ],
+    "Smart_File_System": [
+        "MorphOS",
+        "Virtual_file_system",
+        "YAM_(Yet_Another_Mailer)",
+        "PowerBook_G4",
+        "Ntfs"
+    ],
+    "OCFS2": [
+        "Filesystem_in_Userspace",
+        "Aufs",
+        "Bcachefs",
+        "High_Throughput_File_System",
+        "Next3"
+    ],
+    "Oracle_Database": [
+        "Random-access_memory",
+        "Roger_Sisson",
+        "Jeffrey_O._Henley",
+        "Windows_NT",
+        "List_of_acquisitions_by_Oracle"
+    ],
+    "Memory_(storage_engine)": [
+        "Oracle_Corporation",
+        "Cross-platform",
+        "GlassFish",
+        "Berkeley_DB",
+        "VisualVM"
+    ],
+    "Maxine_Virtual_Machine": [
+        "Free_Java_implementations",
+        "GNU_Classpath",
+        "GNU_General_Public_License",
+        "GraalVM",
+        "Google_Web_Toolkit"
+    ],
+    "SPARC": [
+        "Ultra_Port_Architecture",
+        "Gate_array",
+        "No_instruction_set_computing",
+        "System_in_a_package",
+        "Sun_Microsystems"
+    ],
+    "Cobalt_Networks": [
+        "Tradex_Technologies",
+        "PayPal_Mafia",
+        "Global_Crossing",
+        "Asset",
+        "Bernard_Ebbers"
+    ],
+    "JavaStation": [
+        "MicroSPARC",
+        "Ultra_Port_Architecture",
+        "Oracle_ZFS",
+        "BlueJ",
+        "Oracle_Certification_Program"
+    ],
+    "Procom_Technology": [
+        "Lighthouse_Design",
+        "SPARCstation_IPX",
+        "Oracle_Developer_Studio",
+        "Sun_Enterprise",
+        "Visual_Instruction_Set"
+    ],
+    "Sun386i": [
+        "NeWS",
+        "Sun-3",
+        "SPARC_T4",
+        "Cobalt_Qube",
+        "OpenSolaris"
+    ],
+    "Alibaba_Cloud": [
+        "Zadara",
+        "Republic_Polytechnic",
+        "Heyi_Pictures",
+        "Big_data",
+        "Naver_Corporation"
+    ],
+    "David_Litchfield": [
+        "Microsoft",
+        "Buffer_overflow",
+        "SQL_Slammer",
+        "Database_server",
+        "Buckingham_Palace"
+    ],
+    "Clarivate": [
+        "Bibliometrics",
+        "Wolfe_Laboratories",
+        "Academic_journal",
+        "Publons",
+        "Emerging_Sources_Citation_Index"
+    ],
+    "Reading,_Berkshire": [
+        "Verizon_Business",
+        "English_Civil_War",
+        "Grammar_school",
+        "William_Henry_Valpy",
+        "Seventh-Day_Adventist"
+    ],
+    "Digital_Equipment_Corporation": [
+        "Computer_printer",
+        "Video-on-demand",
+        "Pentium_Pro",
+        "Maynard,_Massachusetts",
+        "AlphaServer"
+    ],
+    "PMID_(identifier)": [
+        "Technical_report",
+        "De-identification",
+        "Article-level_metrics",
+        "Doi_(identifier)",
+        "German_National_Library_of_Medicine"
+    ],
+    "S2CID_(identifier)": [
+        "AMiner_(database)",
+        "Natural_language_processing",
+        "Open_scientific_data",
+        "Machine_learning",
+        "Conference_proceedings"
+    ],
+    "Reference_class_forecasting": [
+        "Foresight_(futures_studies)",
+        "Planning_fallacy",
+        "Climate_change_scenario",
+        "SSRN_(identifier)",
+        "Future_of_Earth"
+    ],
+    "Strategic_management": [
+        "Shareholder_value",
+        "Flexible_manufacturing",
+        "W._Edwards_Deming",
+        "Bruce_Henderson",
+        "Technology_stack"
+    ],
+    "Psychology": [
+        "Cognitive_bias",
+        "James_McKeen_Cattell",
+        "PMID_(identifier)",
+        "Anomalistic_psychology",
+        "Paul_Flechsig"
+    ],
+    "Florida_Institute_of_Technology": [
+        "University_of_Maryland,_College_Park",
+        "Christopher_Loria",
+        "Lander_Bearcats",
+        "Indiana_Institute_of_Technology",
+        "Times_Higher_Education"
+    ],
+    "Bentley,_Lonnie_D.": [
+        "Jeffrey_L._Whitten",
+        "Arkansas_State_University",
+        "Kevin_C._Dittman",
+        "Kevin_C._Dittman",
+        "Whitten,_Jeffrey_L."
+    ],
+    "Purdue_University": [
+        "USC_Trojans",
+        "Purdue_Wreck",
+        "Primary_education",
+        "American_football",
+        "Lafayette,_Indiana"
+    ],
+    "Lonnie_D._Bentley": [
+        "Kevin_C._Dittman",
+        "Computer_scientist",
+        "Mountain_Home_High_School_(Arkansas)",
+        "Wayback_Machine",
+        "Jeffrey_L._Whitten"
+    ],
+    "United_Kingdom": [
+        "Eric_Clapton",
+        "Welsh_cuisine",
+        "RIMPAC",
+        "Global_policeman",
+        "Cornish_people"
+    ],
+    "Kenneth_E._Boulding": [
+        "Theresa_A._Maldonado",
+        "Qian_Xuesen",
+        "Theory_of_the_firm",
+        "Jerry_A._Hausman",
+        "Jane_Lubchenco"
+    ],
+    "Risk_management": [
+        "Financial_risk_management",
+        "Liquidation",
+        "Insurance_cycle",
+        "Wi-Fi_8",
+        "Risk_assessment"
+    ],
+    "Jay_Forrester": [
+        "Stuart_Umpleby",
+        "System_dynamics",
+        "Barbara_J._Grosz",
+        "Maleyka_Abbaszadeh",
+        "Master_of_Science"
+    ],
+    "Resource": [
+        "Water_security",
+        "Wilderness",
+        "Quality_of_life",
+        "Water_pollution",
+        "Aquifer"
+    ],
+    "Systems_analyst": [
+        "Software_analyst",
+        "Business_analyst",
+        "Occupational_Outlook_Handbook",
+        "End_user",
+        "Wall_Street_Journal"
+    ],
+    "Business_process": [
+        "Chief_marketing_officer",
+        "Knowledge_worker",
+        "Strategic_management",
+        "ISBN_(identifier)",
+        "Corporate_governance"
+    ],
+    "Data_science": [
+        "Statistical_analysis",
+        "PMC_(identifier)",
+        "Data_integration",
+        "Data_storage",
+        "ISBN_(identifier)"
+    ],
+    "Scenario_planning": [
+        "Doi_(identifier)",
+        "Climate_change_mitigation_scenarios",
+        "Delphi_method",
+        "ISBN_(identifier)",
+        "Paul_J._H._Schoemaker"
+    ],
+    "Robert_Jungk": [
+        "Peter_Stephan_Jungk",
+        "Copenhagen_(play)",
+        "Adolf_Hitler",
+        "1992_Austrian_presidential_election",
+        "Right_Livelihood_Award"
+    ],
+    "High-level_design": [
+        "Spacecraft_design",
+        "Design_science",
+        ".design",
+        "Design_change",
+        "Opinion_poll"
+    ],
+    "Corrugated_box_design": [
+        "Aseptic_processing",
+        "Packaging_engineer",
+        "Video_game_design",
+        "Shrink_wrap",
+        "Milk_churn"
+    ],
+    "Strategic_Foresight_Group": [
+        "Bangladesh",
+        "Clash_of_civilizations",
+        "Alliance_of_Civilizations",
+        "The_Times_of_India",
+        "Asia"
+    ],
+    "Lenin_Komsomol_Prize": [
+        "Christ",
+        "VLKSM",
+        "BSSR",
+        "Hamid_Olimjon",
+        "Union_republic"
+    ],
+    "PhD": [
+        "Latin_language",
+        "Ukrainian_language",
+        "Laurea",
+        "Graduate_school",
+        "Doctor_(title)"
+    ],
+    "Order_of_Friendship": [
+        "Vladimir_Sangi",
+        "Order_%22For_Merit_in_Culture_and_Art%22",
+        "Dynastic_order",
+        "Jubilee_Medal_%22100_Years_of_the_Trans-Siberian_Railway%22",
+        "Order_of_Saint_Catherine"
+    ],
+    "National_Research_Council_(United_States)": [
+        "United_States_Department_of_Commerce",
+        "United_States_Army_Signal_Corps",
+        "National_academy",
+        "Board_on_Infrastructure_and_Constructed_Environment",
+        "National_Academy_of_Medicine"
+    ],
+    "Subset": [
+        "Formal_language",
+        "Category_theory",
+        "Many-valued_logic",
+        "List_of_set_identities_and_relations",
+        "Decidability_(logic)"
+    ],
+    "Coding_theory": [
+        "Statistical_field_theory",
+        "ISBN_(identifier)",
+        "Graph_theory",
+        "Stochastic_process",
+        "Geometric_calculus"
+    ],
+    "Academic_ranks_in_Russia": [
+        "Russian_language",
+        "Docent",
+        "Habilitation",
+        "Distinguished_professor",
+        "Rector_(academia)"
+    ],
+    "Cornell_University": [
+        "Cornell_Big_Red_men%27s_basketball",
+        "Princeton_University",
+        "NCAA_Division_I",
+        "Carl_Sagan",
+        "Footbridge"
+    ],
+    "Magister_degree": [
+        "Slovenia",
+        "Thesis",
+        "Cand.mag.",
+        "Master%27s_degree",
+        "Fellow"
+    ],
+    "Social_class_in_Haiti": [
+        "Caste_system_in_Nepal",
+        "2010s_Haiti_cholera_outbreak",
+        "2022_Haitian_fuel_protests",
+        "List_of_earthquakes_in_Haiti",
+        "Russian_oligarch"
+    ],
+    "Social_mobility": [
+        "ISBN_(identifier)",
+        "Lord",
+        "Social_exclusion",
+        "Lazzaroni_(Naples)",
+        "Puer_aeternus"
+    ],
+    "Lazar_Lyusternik": [
+        "Theorem_of_the_three_geodesics",
+        "Moscow_State_University",
+        "Mark_Vishik",
+        "Topology",
+        "Marston_Morse"
+    ],
+    "Transcendentals": [
+        "Cynicism_(philosophy)",
+        "Neo-Kantianism",
+        "Alcuin",
+        "Gilbert_Ryle",
+        "Behaviorism"
+    ],
+    "Adams%E2%80%93Novikov_spectral_sequence": [
+        "John_Milnor",
+        "Homology_(mathematics)",
+        "Stable_homotopy_theory",
+        "Douglas_Ravenel",
+        "Complex_cobordism"
+    ],
+    "Efim_Zelmanov": [
+        "William_Thurston",
+        "Alessio_Figalli",
+        "Group_theory",
+        "John_G._Thompson",
+        "Elon_Lindenstrauss"
+    ],
+    "Multi-valued_logic": [
+        "ISBN_(identifier)",
+        "G%C3%B6del_logic",
+        "Term_logic",
+        "Fuzzy_set_operations",
+        "Fuzzy_logic"
+    ],
+    "Sine": [
+        "ISBN_(identifier)",
+        "Milton_Abramowitz",
+        "McGraw-Hill",
+        "C_standard_library",
+        "Power_series"
+    ],
+    "Special_relativity": [
+        "Angular_momentum#Angular_momentum_in_relativistic_mechanics",
+        "Albert_Einstein",
+        "Worldline",
+        "Covariance_and_contravariance_of_vectors",
+        "De_Sitter_double_star_experiment"
+    ],
+    "Circular_motion#Using_complex_numbers": [
+        "Rotational_acceleration",
+        "Motion",
+        "Moment_(physics)",
+        "Doi_(identifier)",
+        "Kilogram"
+    ],
+    "MR_(identifier)": [
+        "OCLC_(identifier)",
+        "Doi_(identifier)",
+        "American_Mathematical_Society",
+        "ISSN_(identifier)",
+        "Bibliographic_database"
+    ],
+    "ArXiv_(identifier)": [
+        "BASE_(search_engine)",
+        "The_Philosophical_Review",
+        "S2CID_(identifier)",
+        "Scientific_publishing",
+        "PMID_(identifier)"
+    ],
+    "Method_of_characteristics": [
+        "Difference_equation",
+        "FTCS_scheme",
+        "Level-set_method",
+        "Monge_cone",
+        "MUSCL_scheme"
+    ],
+    "Difference_equation": [
+        "Characteristic_polynomial",
+        "S2CID_(identifier)",
+        "Circle_points_segments_proof",
+        "Edward_C._Prescott",
+        "Nancy_Stokey"
+    ],
+    "Green%27s_function": [
+        "Fredholm_theory",
+        "Bessel_potential",
+        "Propagator#Feynman_propagator",
+        "Separation_of_variables",
+        "Heaviside_step_function"
+    ],
+    "Crank%E2%80%93Nicolson_method": [
+        "Backward_Euler_method",
+        "Ordinary_differential_equation",
+        "Numerical_methods_for_ordinary_differential_equations#Consistency_and_order",
+        "Infinite_element_method",
+        "MacCormack_method"
+    ],
+    "Additive_inverse": [
+        "Zero_element",
+        "Doi_(identifier)",
+        "Integer",
+        "Semigroup",
+        "Complex_number"
+    ],
+    "Countably_infinite": [
+        "Axiom_of_countable_choice",
+        "Extended_real_number_line",
+        "Zermelo%E2%80%93Fraenkel_set_theory",
+        "List_of_types_of_numbers",
+        "Thoralf_Skolem"
+    ],
+    "Fraction_(mathematics)": [
+        "Oblique_stroke",
+        "Reciprocal_(mathematics)",
+        "Fraction_(disambiguation)",
+        "Algebraic_expression",
+        "Antiderivative"
+    ],
+    "Descartes": [
+        "Memento_mori#In_Europe_from_the_Medieval_era_to_the_Victorian_era",
+        "Radical_skepticism",
+        "Utrecht_University",
+        "Averroes",
+        "Formal_epistemology"
+    ],
+    "Magnitude_(mathematics)": [
+        "Henri_Lebesgue",
+        "Imaginary_part",
+        "%C3%89mile_Borel",
+        "ISBN_(identifier)",
+        "Loudness"
+    ],
+    "Germany": [
+        "Lion-man",
+        "Historiography_of_Germany",
+        "Danube",
+        "Representative_democracy",
+        "European_Commission_for_the_Efficiency_of_Justice"
+    ],
+    "Uniformly_continuous": [
+        "Proximity_space",
+        "Category_of_metric_spaces",
+        "Locally_compact",
+        "Injective_metric_space",
+        "Euclidean_metric"
+    ],
+    "Discrete_space": [
+        "Stretch_factor",
+        "Bounded_metric_space",
+        "Kuratowski_convergence",
+        "Second-countable_space",
+        "Discrete_group"
+    ],
+    "Continuously_differentiable": [
+        "Continuous_function",
+        "Linear_function",
+        "Tangent_line",
+        "Almost_everywhere",
+        "Partial_derivative"
+    ],
+    "Arzel%C3%A0%E2%80%93Ascoli_theorem": [
+        "Compact_operator",
+        "Kakutani_fixed-point_theorem#Infinite-dimensional_generalizations",
+        "Uniform_space",
+        "Doi_(identifier)",
+        "Uniformly_bounded"
+    ],
+    "General_linear_methods": [
+        "Bibcode_(identifier)",
+        "Verlet_integration",
+        "Doi_(identifier)",
+        "ISBN_(identifier)",
+        "Symplectic_integrator"
+    ],
+    "Shooting_method": [
+        "Time-independent_Schr%C3%B6dinger_equation",
+        "Computation_of_radiowave_attenuation_in_the_atmosphere",
+        "ISBN_(identifier)",
+        "Direct_multiple_shooting_method",
+        "Bisection_method"
+    ],
+    "Computational_mathematics": [
+        "Numerical_methods",
+        "Computational_science",
+        "Philosophy_of_mathematics",
+        "Differential_form",
+        "Operations_research"
+    ],
+    "Tangent": [
+        "Differential_geometry_of_surfaces",
+        "Tangent_lines_to_circles",
+        "Tangent_line_approximation",
+        "Circle",
+        "Multiplicity_(mathematics)#Behavior_of_a_polynomial_function_near_a_multiple_root"
+    ],
+    "Algebra_of_physical_space": [
+        "Spacetime_algebra",
+        "Spacetime_algebra",
+        "Pauli_matrix",
+        "Bibcode_(identifier)",
+        "Classical_field_theory"
+    ],
+    "Inflection": [
+        "Tonal_language",
+        "Romanian_language",
+        "Grammatical_conjugation",
+        "ISBN_(identifier)",
+        "Genitive_construction"
+    ],
+    "List_of_Russian_language_topics": [
+        "Malapropism#Examples_in_Russian_language",
+        "Surzhyk",
+        "Russian_language_in_Israel",
+        "Frequentative",
+        "Trasianka"
+    ],
+    "Suzhou_dialect": [
+        "Eastern_Min",
+        "Jiujiang_dialect",
+        "Nanchang_dialect",
+        "Rui%27an_dialect",
+        "Glottal_stop"
+    ],
+    "Baltic_Romani": [
+        "Finland",
+        "Latvia",
+        "Sanskrit",
+        "Bohemian_Romani",
+        "OCLC_(identifier)"
+    ],
+    "Voiceless_alveolo-palatal_affricate": [
+        "Voiced_alveolar_non-sibilant_fricative",
+        "Velar_ejective_stop",
+        "Abdominal_muscles",
+        "Nasal_consonant",
+        "Marathi_language"
+    ],
+    "NU_of_LP": [
+        "Marta_Cohen",
+        "Crux",
+        "Genoveva_Dawson",
+        "Rafael_Hern%C3%A1ndez_National_College",
+        "Mart%C3%ADn_Almada"
+    ],
+    "Privatdozent": [
+        "PMC_(identifier)",
+        "Fliegende_Bl%C3%A4tter",
+        "Doi_(identifier)",
+        "Doctorate#Higher_doctorate_and_post-doctoral_degrees",
+        "PMID_(identifier)"
+    ],
+    "Francis_Michael_Longstreth_Thompson": [
+        "LCCN_(identifier)",
+        "J._C._Holt",
+        "Adolphus_Ward",
+        "R._W._Southern",
+        "Frank_Stenton"
+    ],
+    "Graduate_diploma": [
+        "Higher_doctorate",
+        "Australian_Qualifications_Framework",
+        "Dublin_City_University",
+        "Lifelong_learning",
+        "University_of_Southern_Denmark"
+    ],
+    "NU_of_the_S": [
+        "Lola_Mora",
+        "National_University_of_Arts",
+        "National_University_of_La_Rioja",
+        "Favaloro_University",
+        "National_University_of_Misiones"
+    ],
+    "Monograph": [
+        "Food_and_Drug_Administration",
+        "Library_cataloguing",
+        "Review_article",
+        "Open_access_monograph",
+        "Festschrift"
+    ],
+    "Mikhail_Gennadiyevich_Dmitriyev": [
+        "Patent",
+        "Russian_language",
+        "Applied_mathematics",
+        "Masers",
+        "Soviet"
+    ],
+    "Lax_pair": [
+        "Mahler%27s_conjecture",
+        "Topological_quantum_field_theory",
+        "Skew-adjoint",
+        "OSTI_(identifier)",
+        "Approximation_property"
+    ],
+    "USSR_State_Prize": [
+        "Soviet_ruble",
+        "Lenin_Prize",
+        "Lenin_Komsomol_Prize",
+        "State_Prize_of_the_Russian_Federation",
+        "List_of_recipients_of_the_USSR_State_Prize"
+    ],
+    "Afro-Brazilian_history": [
+        "Benguela",
+        "Soul_music",
+        "ISBN_(identifier)",
+        "Afro-Brazilian_culture",
+        "Benguela"
+    ],
+    "Algerian_War": [
+        "ISBN_(identifier)",
+        "Deputy_Prime_Minister_of_Algeria",
+        "Cr%C3%A9mieux_Decree",
+        "ISBN_(identifier)",
+        "Soustelle_Plan"
+    ],
+    "Import_substitution": [
+        "Corn_Laws",
+        "ISBN_(identifier)",
+        "Index_of_international_trade_articles",
+        "Protectionism",
+        "Neoliberalism"
+    ],
+    "Proclamation_of_the_Republic_(Brazil)": [
+        "Science_and_technology_in_Brazil",
+        "Protected_areas_of_Brazil",
+        "Brazilian_press",
+        "Brazilian_Revolution_of_1930",
+        "Benedito_Calixto"
+    ],
+    "Coat_of_arms_of_Brazil": [
+        "Water_resources_management_in_Brazil",
+        "National_symbols_of_Brazil",
+        "Subdivisions_of_Brazil",
+        "LGBTQ_literature_in_Brazil",
+        "LGBTQ_culture_in_Brazil"
+    ],
+    "United_Kingdom_of_Portugal,_Brazil_and_the_Algarves": [
+        "List_of_World_Heritage_Sites_in_Brazil",
+        "Captaincy_Colonies_of_Brazil",
+        "Revolt_of_the_Muckers",
+        "Chaul",
+        "List_of_mountains_in_Brazil"
+    ],
+    "University_of_Cruz_Alta": [
+        "Universidade_de_Taubat%C3%A9",
+        "Federal_Institute_of_Santa_Catarina",
+        "Federal_Center_for_Technological_Education_of_Rio_de_Janeiro",
+        "Pontifical_Catholic_University_of_Goi%C3%A1s",
+        "International_Institute_for_Neuroscience_of_Natal"
+    ],
+    "History_of_Brazil": [
+        "List_of_countries_where_Portuguese_is_an_official_language",
+        "Independence_of_Brazil",
+        "Great_Depression",
+        "S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o",
+        "Kingdom_of_Portugal"
+    ],
+    "Laborat%C3%B3rio_Nacional_de_Luz_S%C3%ADncrotron": [
+        "Federal_Rural_University_of_Rio_de_Janeiro",
+        "S%C3%A3o_Paulo_State_University",
+        "Federal_University_of_Piau%C3%AD",
+        "Insper",
+        "Storage_ring"
+    ],
+    "Brazilian_jurisdictional_waters": [
+        "Brazilian_Institute_of_Environment_and_Renewable_Natural_Resources",
+        "Bolsa_Fam%C3%ADlia",
+        "Outline_of_Brazil",
+        "United_Kingdom_of_Portugal,_Brazil_and_the_Algarves",
+        "Weddell_Sea"
+    ],
+    "Passenger_rail": [
+        "Acela",
+        "Rail_transport_in_Denmark",
+        "Regional_rail",
+        "rail)",
+        "Traffic_congestion"
+    ],
+    "Fields_of_engineering": [
+        "Diffusion_bonding",
+        "DNA",
+        "Water",
+        "Project_engineering",
+        "Renewable_energy"
+    ],
+    "Float_glass": [
+        "Melting_point",
+        "Density",
+        "ISBN_(identifier)",
+        "Tin_dioxide",
+        "Glassblowing"
+    ],
+    "Fine_chemical": [
+        "Abbott_Laboratories",
+        "Succinic_acid",
+        "Vitamin_B2",
+        "Malathion",
+        "ISBN_(identifier)"
+    ],
+    "Pigment": [
+        "Bow_drill",
+        "Synthetic_dye",
+        "Pottery",
+        "Evolutionary_musicology",
+        "Ferrous_metallurgy"
+    ],
+    "B%C3%A1bism": [
+        "Odinala",
+        "Contemporary_Sant_Mat_movements",
+        "List_of_Bah%C3%A1%CA%BC%C3%AD_Houses_of_Worship",
+        "Religion_in_Benin",
+        "Religion_in_Belarus"
+    ],
+    "Hidden_Words": [
+        "Gleanings_from_the_Writings_of_Bah%C3%A1%CA%BCu%27ll%C3%A1h",
+        "Tablets_of_Bah%C3%A1%CA%BCu%27ll%C3%A1h_Revealed_After_the_Kit%C3%A1b-i-Aqdas",
+        "Bah%C3%A1%CA%BCu%27ll%C3%A1h",
+        "Bah%C3%A1%CA%BCu%27ll%C3%A1h",
+        "Writings_of_Bah%C3%A1%CA%BCu%27ll%C3%A1h"
+    ],
+    "Paraguay": [
+        "San_La_Muerte",
+        "Mercosur",
+        "German_Paraguayans",
+        "Guarani_language",
+        "Tourism_in_Paraguay"
+    ],
+    "Cancellation_(mail)": [
+        "Postage_stamps_and_postal_history_of_Great_Britain",
+        "Isle_of_Man_Post",
+        "Duplex_cancel",
+        "Isle_of_Man_Post",
+        "Nassau,_Bahamas"
+    ],
+    "Cuba": [
+        "Cuban_Revolution_of_1933",
+        "Bah%C3%A1%CA%BC%C3%AD_Faith",
+        "First_Secretary_of_the_Communist_Party_of_Cuba",
+        "University_of_Miami",
+        "Maraca"
+    ],
+    "Minister_of_Education": [
+        "Ministry_of_Education_(Marshall_Islands)",
+        "Department_of_Education_(Philippines)",
+        "Ministry_of_Education_(China)",
+        "Ministry_of_Education,_Lifelong_Learning_and_Religious_Affairs_(Greece)",
+        "Swedish_language"
+    ],
+    "Beihai_Park": [
+        "Peking_University",
+        "Belvedere_of_Spreading_Righteousness",
+        "Yangzhou",
+        "Taihu_rocks",
+        "Chinese_stele"
+    ],
+    "Changping_North_railway_station": [
+        "Simplified_Chinese_characters",
+        "Beijing_Royal_School",
+        "Qiaozhuang_East_railway_station",
+        "Changping_Xishankou_station",
+        "Korean_International_School_in_Beijing"
+    ],
+    "China_Railway": [
+        "Hong_Kong_International_Airport",
+        "Net_income",
+        "Ministry_of_Transport_of_the_People%27s_Republic_of_China",
+        "Qinghai%E2%80%93Tibet_railway",
+        "China_Railway_Taiyuan_Group"
+    ],
+    "National_Institute_of_Amazonian_Research": [
+        "Federal_University_of_Para%C3%ADba",
+        "Universidade_de_Mogi_das_Cruzes",
+        "Federal_University_of_the_State_of_Rio_de_Janeiro",
+        "Lutheran_University_of_Brazil",
+        "Director_(business)"
+    ],
+    "Wagon": [
+        "Whippletree_(mechanism)",
+        "Herdic",
+        "American_Civil_War",
+        "Horse_show",
+        "Trolley_(horse-drawn)"
+    ],
+    "United_States_Senate": [
+        "Congressional_Research_Service_reports",
+        "Military_history_of_the_United_States",
+        "Presiding_Officer_of_the_United_States_Senate",
+        "Federal_tribunals_in_the_United_States",
+        "Cory_Booker"
+    ],
+    "Urology": [
+        "Sex-positive_movement",
+        "Doi_(identifier)",
+        "Venereology",
+        "List_of_sex_museums",
+        "Surgical_oncology"
+    ],
+    "Northwestern_University": [
+        "Vanderbilt_University",
+        "List_of_Big_Ten_Conference_national_championships",
+        "Wiley_University",
+        "Kellogg_School_of_Management",
+        "Ned_Rorem"
+    ],
+    "Pomona_College": [
+        "Los_Angeles_City_College",
+        "AFI_Conservatory",
+        "Marian_Miner_Cook_Athenaeum",
+        "The_Student_Life",
+        "Real_estate_boom"
+    ],
+    "Ca%C3%B1on_City,_Colorado": [
+        "Monte_Vista,_Colorado",
+        "Penrose,_Colorado",
+        "Fremont_County,_Colorado",
+        "%C3%91",
+        "Colorado"
+    ],
+    "United_States_men%27s_national_soccer_team": [
+        "United_States_national_badminton_team",
+        "Football_at_the_1948_Summer_Olympics",
+        "John_Tolkin",
+        "United_States_Interregional_Soccer_League",
+        "2025_CONCACAF_Gold_Cup"
+    ],
+    "K%C3%B6ppen_climate_classification": [
+        "Fog",
+        "San_Marcos,_Antioquia",
+        "Costa_Rica",
+        "Hawaii",
+        "Subtropical_highland_climate"
+    ],
+    "Fort_Carson#Camp_Carson": [
+        "Glenwood_Springs,_Colorado",
+        "Rhode_Island",
+        "Lafayette,_Colorado",
+        "440th_Civil_Affairs_Battalion",
+        "Truckton,_Colorado"
+    ],
+    "List_of_Colorado_state_symbols": [
+        "List_of_Minnesota_state_symbols",
+        "Aspen,_Colorado",
+        "Coat_of_Arms_of_the_State_of_Colorado",
+        "Wray,_Colorado",
+        "Law_of_Colorado"
+    ],
+    "NCAA_Division_II": [
+        "Great_Lakes_Valley_Conference",
+        "Big_West_Conference",
+        "The_Intelligencer_%26_Wheeling_News_Register",
+        "List_of_NCAA_Division_I_conference_changes_in_the_2000s",
+        "List_of_NCAA_Division_II_institutions"
+    ],
+    "The_Walt_Disney_Company": [
+        "The_Rescuers_Down_Under",
+        "Earth_Day",
+        "Bedknobs_and_Broomsticks",
+        "Baby_Einstein",
+        "ClickOrlando"
+    ],
+    "Milwaukee": [
+        "Tarime_District",
+        "Oak_Leaf_Trail",
+        "Turner_Hall_(Milwaukee)",
+        "2010_United_States_census",
+        "Samson_(gorilla)"
+    ],
+    "Annapolis": [
+        "Austin,_Texas",
+        "Aspen_Hill,_Maryland",
+        "Arkansas",
+        "Maryland_Route_70",
+        "Pennsylvania"
+    ],
+    "College_Station,_Texas": [
+        "United_States_Census_Bureau",
+        "Walmart",
+        "List_of_Texas_metropolitan_areas",
+        "1970_United_States_census",
+        "KCEN-TV"
+    ],
+    "Sacramento_State_Hornets": [
+        "Pepperdine_University",
+        "UCLA_Bruins",
+        "Ohio_University",
+        "Jessup_University#Athletics",
+        "UCLA_Bruins"
+    ],
+    "Julia_Morgan": [
+        "Doi_(identifier)",
+        "Mount_Shasta",
+        "Wayback_Machine",
+        "Russian_Hill",
+        "The_Hacienda_(Milpitas_Ranchhouse)"
+    ],
+    "California_State_University_Channel_Islands": [
+        "Western_Association_of_Schools_and_Colleges",
+        "American_Jewish_University",
+        "Undergraduate_education",
+        "California_State_University,_Fresno",
+        "University_of_California,_Riverside"
+    ],
+    "Pulitzer_Prize": [
+        "Music_of_the_United_States",
+        "2007_Pulitzer_Prize",
+        "Pulitzer_Prize_for_General_Nonfiction",
+        "1968_Pulitzer_Prize",
+        "Pulitzer_Prize_for_Memoir_or_Autobiography"
+    ],
+    "Pepperdine_Waves": [
+        "Ventura_County_Derby_Darlins",
+        "Saint_Mary%27s_College_of_California",
+        "X_League_(women%27s_football)",
+        "Stanford_Cardinal",
+        "SoFi_Stadium"
+    ],
+    "Chaffee_Park,_Denver": [
+        "Lowry,_Denver",
+        "Elitch_Gardens_Theme_Park",
+        "Indigenous_peoples_of_the_Americas",
+        "Sloan%27s_Lake",
+        "List_of_neighborhoods_in_Denver"
+    ],
+    "Central_Park,_Denver": [
+        "Museo_de_las_Americas",
+        "List_of_counties_in_Colorado",
+        "City_Park_West,_Denver",
+        "Colorado_Rapids",
+        "List_of_mayors_of_Denver"
+    ],
+    "16th_Street_Mall": [
+        "Morton_H._Meyerson_Symphony_Center",
+        "W_Line_(RTD)",
+        "Elyria-Swansea,_Denver",
+        "Denver_City_Council",
+        "Colorado_Rockies"
+    ],
+    "Regis_University": [
+        "Lindsey_Halligan",
+        "NFL",
+        "NCAA_Division_II",
+        "Colorado",
+        "Colorado_Mines_Orediggers"
+    ],
+    "Morrison,_Colorado": [
+        "Bow_Mar,_Colorado",
+        "Denver,_South_Park_and_Pacific_Railroad",
+        "Colorado_municipalities#Home_rule_municipality",
+        "LoDaisKa_site",
+        "East_Pleasant_View,_Colorado"
+    ],
+    "Asymmetric_federalism": [
+        "Karnataka",
+        "Andalusia",
+        "Federated_state",
+        "Spain",
+        "Colony"
+    ],
+    "Inter_RAO": [
+        "Credit_Bank_of_Moscow",
+        "Kuzbassenergo",
+        "Alrosa",
+        "Cuciurgan_power_station",
+        "Rosneft"
+    ],
+    "Transnistria_(disambiguation)": [
+        "Ivano-Frankivsk_Oblast",
+        "Administrative-Territorial_Units_of_the_Left_Bank_of_the_Dniester",
+        "Moldavian_Soviet_Socialist_Republic",
+        "Transnistria",
+        "Transnistria_Governorate"
+    ],
+    "Moldovans": [
+        "Polirom",
+        "Eugen_Doga",
+        "List_of_rivers_of_Moldova",
+        "2014_Moldovan_Census",
+        "Cornell_University_Press"
+    ],
+    "Andrei_Stratan": [
+        "Vasile_Tarlev",
+        "Chi%C8%99in%C4%83u",
+        "Nicolae_Dud%C4%83u",
+        "Dmitri_Todoroglo",
+        "Soviet_Union"
+    ],
+    "Life_(magazine)": [
+        "New_York_Daily_News",
+        "Richard_Meryman",
+        "San_Francisco",
+        "Dorothea_Lange",
+        "United_States_Department_of_Defense"
+    ],
+    "Taras_Shevchenko_National_University_of_Kyiv": [
+        "Dnipro_Polytechnic",
+        "Masaryk_University",
+        "East_Ukrainian_Volodymyr_Dahl_National_University",
+        "National_University_of_Kyiv-Mohyla_Academy",
+        "National_Academy_of_State_Administration"
+    ],
+    "Potsdam": [
+        "List_of_dialling_codes_in_Germany",
+        "Jungfernsee",
+        "Krefeld",
+        "Universum_Film_AG",
+        "Potsdam_Pirschheide_railway_station"
+    ],
+    "Sevastopol": [
+        "Imperial_Russian_Navy",
+        "Rivne_Oblast",
+        "Schwerer_Gustav",
+        "Volyn_Oblast",
+        "Kropyvnytskyi"
+    ],
+    "Tirana": [
+        "Et%27hem_Bey_Mosque",
+        "Koha_Ditore",
+        "Ministry_of_Education,_Sports_and_Youth_(Albania)",
+        "Dobresh",
+        "Resurrection_Cathedral,_Tirana"
+    ],
+    "Quebec_City": [
+        "Gentrification",
+        "Cape_Breton_Island",
+        "Surrender_of_Quebec",
+        "Rivi%C3%A8re_du_Cap_Rouge",
+        "Single-member_district"
+    ],
+    "List_of_theatres_in_Saint_Petersburg": [
+        "Alexandrovsky_Park",
+        "Larisa_Luppian",
+        "Alexandrinsky_Theatre",
+        "Elizabeth_of_Russia",
+        "Valery_Fokin"
+    ],
+    "Kurgan_Oblast": [
+        "Ural_Federal_District",
+        "Kursk_Oblast",
+        "Yuri_Balashov",
+        "Kataysk,_Kurgan_Oblast",
+        "Wayback_Machine"
+    ],
+    "SKA_Saint_Petersburg": [
+        "Hockey_jersey",
+        "Russia",
+        "2021%E2%80%9322_KHL_season",
+        "Russian_Superleague",
+        "HC_CSKA_Moscow"
+    ],
+    "Operation_Frantic": [
+        "Polish_Home_Army",
+        "Debrecen",
+        "Riesa",
+        "Victory_in_Europe_Day",
+        "Warsaw_Uprising"
+    ],
+    "Ukrainian_language": [
+        "Ruthenian_language",
+        "Western_Polesian_dialect_of_Ukrainian",
+        "Easter_traditions#Europe",
+        "German-Russian_macaronic_language",
+        "Romani_language"
+    ],
+    "1956_Summer_Olympics": [
+        "Canada_at_the_1956_Summer_Olympics",
+        "Heinz_Laufer",
+        "Olympics_on_television",
+        "1904_Summer_Olympics",
+        "British_Bahamas"
+    ],
+    "Yitzhak_Ben-Zvi": [
+        "1968_Israeli_presidential_election",
+        "Republic_of_the_Congo",
+        "Mapai",
+        "Israeli_new_sheqel",
+        "Tom_Segev"
+    ],
+    "Grand_Duchy_of_Lithuania": [
+        "United_States_imperialism",
+        "Easter_traditions#Europe",
+        "Encyclopedia_Britannica",
+        "Pereiaslav_Agreement",
+        "Afsharid_Iran"
+    ],
+    "Moldova": [
+        "List_of_countries_by_GDP_(nominal)",
+        "Ukraine",
+        "Radu_Albot",
+        "Ancient_Rome",
+        "Zdob_%C8%99i_Zdub"
+    ],
+    "Kazakhstani_tenge": [
+        "Kazakhstan",
+        "Nursultan_Nazarbayev",
+        "Currency",
+        "Xueyantuo",
+        "Swedish_krona"
+    ],
+    "Kopeck": [
+        "Russian_Soviet_Federative_Socialist_Republic",
+        "Soviet_Union",
+        "Copper-nickel",
+        "Obverse_and_reverse",
+        "Russian_Empire"
+    ],
+    "List_of_political_parties_in_Transnistria": [
+        "Outline_of_political_science#Politics_by_region",
+        "List_of_political_parties_in_Europe",
+        "List_of_political_parties_in_Denmark",
+        "List_of_political_parties_in_Lithuania",
+        "List_of_political_parties_in_Azerbaijan"
+    ],
+    "Institut_de_l%27information_scientifique_et_technique": [
+        "Wikidata",
+        "DOGE_(database)",
+        "Vand%C5%93uvre-l%C3%A8s-Nancy",
+        "PASCAL_(database)",
+        "France"
+    ],
+    "Doi_(identifier)": [
+        "ISBN",
+        "Graph_Query_Language",
+        "ISO_2848",
+        "JPIP",
+        "ISO_16750"
+    ],
+    "Gopher_(protocol)": [
+        "GopherVR",
+        "W3m",
+        "Mosaic_(web_browser)",
+        "History_of_the_Opera_web_browser#Version_7",
+        "InterCon_Systems_Corporation#TCP.2FConnect_II"
+    ],
+    "Bruce_Gilliat": [
+        "Internet_Archive",
+        "Massachusetts_Institute_of_Technology",
+        "Golden_Gate_University",
+        "Alexa_Internet",
+        "Wired_(magazine)"
+    ],
+    "Hdl_(identifier)": [
+        "End_user",
+        "Corporation_for_National_Research_Initiatives",
+        "ITU",
+        "Uniform_Resource_Name",
+        "International_DOI_Foundation"
+    ],
+    "Sorbonne_University": [
+        "AP-HP_Sorbonne_University_Hospital_Group",
+        "Institut_de_math%C3%A9matiques_de_Jussieu_%E2%80%93_Paris_Rive_Gauche",
+        "Piti%C3%A9-Salp%C3%AAtri%C3%A8re_Hospital",
+        "Institut_National_d%27Histoire_de_l%27Art",
+        "H%C3%B4pital_Tenon"
+    ],
+    "Alpha_Cond%C3%A9": [
+        "Reuters",
+        "2021_Guinean_coup_d%27%C3%A9tat",
+        "L%C3%A9opold_S%C3%A9dar_Senghor",
+        "Sciences_Po",
+        "Moussa_Traor%C3%A9"
+    ],
+    "5th_arrondissement_of_Paris": [
+        "La_Garenne-Colombes",
+        "15th_arrondissement_of_Paris",
+        "Villiers-sur-Marne",
+        "Bureau_d%27Enqu%C3%AAtes_sur_les_%C3%89v%C3%A9nements_de_Mer",
+        "Paris_metropolitan_area"
+    ],
+    "Latin_Quarter,_Paris": [
+        "Ar%C3%A8nes_de_Lut%C3%A8ce",
+        "Vaux-le-Vicomte",
+        "Pont_d%27I%C3%A9na",
+        "Parc_Clichy-Batignolles_%E2%80%93_Martin_Luther_King",
+        "Cit%C3%A9_des_Sciences_et_de_l%27Industrie"
+    ],
+    "Higher_education_in_France": [
+        "Louis_Pasteur",
+        "Homelessness_in_France",
+        "French_philosophy",
+        "Education_in_Norway",
+        "Master%27s_degree_(France)"
+    ],
+    "Giuseppe_Saracco": [
+        "Tancredi_Canonico",
+        "Matteo_Renzi",
+        "Giovanni_Lanza",
+        "Luigi_Pelloux",
+        "Amintore_Fanfani"
+    ],
+    "Bank_for_International_Settlements": [
+        "Belgium",
+        "Hong_Kong",
+        "Paul_van_Zeeland",
+        "Operational_risk",
+        "Sveriges_Riksbank"
+    ],
+    "Emmanuel_Macron": [
+        "ISSN_(identifier)",
+        "Olivier_Carr%C3%A9",
+        "Naiqama_Lalabalavu",
+        "Moderate",
+        "Martin-Michel-Charles_Gaudin"
+    ],
+    "Fortune_(magazine)": [
+        "John_Kenneth_Galbraith",
+        "Forbes_Global_2000",
+        "Ralph_Ingersoll_(PM_publisher)",
+        "Richard_P%C3%A9rez-Pe%C3%B1a",
+        "Alvin_Toffler"
+    ],
+    "Pierre_Werner": [
+        "Mary_Beard",
+        "Ministry_of_Foreign_Affairs_(Luxembourg)",
+        "Wilfried_Martens",
+        "Eug%C3%A8ne_Schaus",
+        "%C3%89douard_Thilges"
+    ],
+    "Institut_national_sup%C3%A9rieur_de_formation_et_de_recherche_pour_l%27%C3%A9ducation_inclusive": [
+        "Suresnes",
+        "Wayback_Machine",
+        "Suresnes",
+        "Fort_Mont-Val%C3%A9rien",
+        "Geographic_coordinate_system"
+    ],
+    "Toulouse_Capitole_University": [
+        "Ramazan_Bashardost",
+        "Institut_d%27%C3%A9tudes_politiques_de_Grenoble",
+        "Association_of_universities_and_higher_education_institutions",
+        "Grenoble_Alpes_University",
+        "Sorbonne_Nouvelle_University_Paris_3"
+    ],
+    "University_of_Montpellier_Paul_Val%C3%A9ry": [
+        "Jean_Moulin_University_Lyon_3",
+        "Nantes",
+        "Coimbra_Group",
+        "University_of_Toulouse",
+        "Institut_d%27%C3%A9tudes_politiques_de_Bordeaux"
+    ],
+    "Avignon_University": [
+        "Agence_universitaire_de_la_Francophonie",
+        "Vincent_Almendros",
+        "CY_Cergy_Paris_University",
+        "University_of_Lille",
+        "Institut_d%27%C3%A9tudes_politiques_de_Lille"
+    ],
+    "University_of_Toulouse": [
+        "Haute_%C3%A9cole_des_arts_du_Rhin",
+        "Conservatoire_national_des_arts_et_m%C3%A9tiers",
+        "University_of_Upper_Alsace",
+        "European_Space_Agency",
+        "Institut_National_des_Sciences_Appliqu%C3%A9es_de_Rouen"
+    ],
+    "Siege_of_Metz_(1870)": [
+        "Fight_at_Pesmes",
+        "Battle_of_Monnaie",
+        "26th_Division_(German_Empire)",
+        "Field_gun",
+        "Battle_of_Wissembourg_(1870)"
+    ],
+    "Drouyn_de_Lhuys": [
+        "Order_of_St_Stephen_of_Hungary",
+        "Jules_Baroche",
+        "Jean-Martial_Bineau",
+        "Michel_Debr%C3%A9",
+        "Jean_Casimir-Perier"
+    ],
+    "Moselle_(department)": [
+        "Central_European_Summer_Time",
+        "Charente-Maritime",
+        "Duchy_of_Bar",
+        "Battle_of_Waterloo",
+        "Atlas_Linguarum_Europae"
+    ],
+    "Battle_of_Havana_(1870)": [
+        "Corvette",
+        "Eduard_von_Knorr",
+        "Treaty_of_Frankfurt_(1871)",
+        "Nowy_Port",
+        "Aviso"
+    ],
+    "Confederation_of_the_Rhine": [
+        "Kingdom_of_W%C3%BCrttemberg",
+        "World_War_II",
+        "Schwarzburg-Sondershausen",
+        "Encyclop%C3%A6dia_Britannica",
+        "Joachim_Murat"
+    ],
+    "List_of_countries_by_life_expectancy": [
+        "Azerbaijan",
+        "Vietnam",
+        "Singapore",
+        "Laos",
+        "Human_population_projections"
+    ],
+    "Albanian_Power_Corporation": [
+        "Hydrotechnical",
+        "Privatization",
+        "Parent_company",
+        "Electricity_generation",
+        "Electric_power"
+    ],
+    "Albanian_art": [
+        "List_of_archaeological_sites_in_Albania",
+        "Sculpture",
+        "Albanians",
+        "Shkod%C3%ABr",
+        "Albanian_Republic_(1925%E2%80%931928)"
+    ],
+    "Geography_of_Albania": [
+        "Mediterranean_climate",
+        "Biodiversity_of_Albania",
+        "Wetland",
+        "Jurassic",
+        "Shebenik"
+    ],
+    "History_of_Albania": [
+        "Achaean_League",
+        "Albanian_principalities",
+        "Edi_Rama",
+        "2005_in_Albania",
+        "Second_world"
+    ],
+    "Kapllan_Pasha_Tomb": [
+        "Fark%C3%AB",
+        "Ish-Blloku",
+        "Arben_Broci_High_School",
+        "Vertical_Forest_Tirana",
+        "Tirana_Olympic_Park"
+    ],
+    "Czech_Republic": [
+        "Legal_case",
+        "Franti%C5%A1ek_Vl%C3%A1%C4%8Dil",
+        "ISBN_(identifier)",
+        "Georgia_(country)",
+        "Hyn%C4%8Dice_(Vra%C5%BEn%C3%A9)"
+    ],
+    "Petro_Ruci_Stadium": [
+        "Football_(soccer)",
+        "Sopoti_Stadium",
+        "KF_Oriku",
+        "Arena_Komb%C3%ABtare",
+        "Albania"
+    ],
+    "Invitation_to_tender": [
+        "Request_for_quotation",
+        "Government_procurement",
+        "Directorate-General_for_Internal_Market,_Industry,_Entrepreneurship_and_SMEs",
+        "Chartered_Institute_of_Procurement_%26_Supply",
+        "Institution_of_Civil_Engineers"
+    ],
+    "Sali_Berisha": [
+        "Viacheslav_Chornovil",
+        "K%C3%A1roly_Gr%C3%B3sz",
+        "Albania",
+        "George_Soros",
+        "Hemodynamics"
+    ],
+    "Tech_City_College": [
+        "The_College_of_Haringey,_Enfield_and_North_East_London",
+        "Sixth_form",
+        "London_Interdisciplinary_School",
+        "City_St_George%27s,_University_of_London",
+        "Southwark_College"
+    ],
+    "Liddell_Hart_Centre_for_Military_Archives": [
+        "Thomas_Young_Centre",
+        "University_council",
+        "Air_power",
+        "Gordon_Museum_of_Pathology",
+        "Major-general_(United_Kingdom)"
+    ],
+    "London_Interdisciplinary_School": [
+        "KPMG",
+        "Royal_Academy_of_Music",
+        "South_London_Christian_College",
+        "City_St_George%27s,_University_of_London",
+        "University_of_Westminster"
+    ],
+    "List_of_Nobel_laureates": [
+        "Woodrow_Wilson",
+        "Joseph_Stiglitz",
+        "James_M._Buchanan",
+        "1993_Nobel_Prizes",
+        "Marshall_Warren_Nirenberg"
+    ],
+    "King%27s_College_London_Faculty_of_Arts_and_Humanities": [
+        "The_Dickson_Poon_School_of_Law",
+        "F._J._C._Hearnshaw",
+        "Francisco_Bethencourt",
+        "King%27s_College_London_Students%27_Union",
+        "Martin_Stokes"
+    ],
+    "Institution_of_Public_Commissioners_(Albania)": [
+        "Operatori_i_Shp%C3%ABrndarjes_s%C3%AB_Energjis%C3%AB_Elektrike",
+        "Healthcare_in_Albania",
+        "Principality_of_Albania",
+        "Public_holidays_in_Albania",
+        "Albanian_cuisine"
+    ],
+    "Shkodra": [
+        "Rrethinat",
+        "Shosh,_Albania",
+        "Delminium",
+        "Tomorr",
+        "Bircenna"
+    ],
+    "Malissori_uprising": [
+        "Albanoi",
+        "NUTS_statistical_regions_of_Albania",
+        "Juan_Pedro_Aladro_Kastriota",
+        "Illyrians",
+        "Economy_of_Albania"
+    ],
+    "Municipalities_of_Albania": [
+        "Socialist_Party_of_Albania",
+        "Gjinaj",
+        "World_War_I_in_Albania",
+        "Antigon%C3%AB",
+        "Albanian_Basketball_Federation"
+    ],
+    "Kingdom_of_Albania_in_personal_union_with_Italy": [
+        "Inner_Mongolian_Army",
+        "Macedonia_(Roman_province)",
+        "Albanian_Fascist_Party",
+        "Slovene_Home_Guard",
+        "List_of_tallest_structures_in_Albania"
+    ],
+    "KF_T%C3%ABrbuni_Puk%C3%AB": [
+        "Albania",
+        "Kategoria_e_Dyt%C3%AB",
+        "KF_Bes%C3%ABlidhja_Lezh%C3%AB",
+        "Albania",
+        "KF_Shkumbini_Peqin"
+    ],
+    "Portugal": [
+        "Law_of_Portugal",
+        "Economic_history_of_Portugal",
+        "Renewable_energy",
+        "Geography_of_Portugal",
+        "John_Paul_II_Ponta_Delgada_Airport"
+    ],
+    "Kategoria_Superiore": [
+        "FK_Partizani_Tirana",
+        "FK_Kuk%C3%ABsi",
+        "KF_Teuta_Durr%C3%ABs",
+        "FK_Kuk%C3%ABsi",
+        "Pero_Peji%C4%87"
+    ],
+    "2023%E2%80%9324_UEFA_Europa_Conference_League#Second_qualifying_round": [
+        "Romanian_Football_Federation",
+        "2023%E2%80%9324_UEFA_Europa_Conference_League_qualifying_(first_and_second_round_matches)#Basel_v_Tobol",
+        "2023%E2%80%9324_UEFA_Europa_League_group_stage",
+        "F.C._Arouca",
+        "FK_%C5%BDalgiris"
+    ],
+    "Neptun_Bajko": [
+        "Faruk_Sejdini",
+        "Myslym_Alla",
+        "Sllave_Llambi",
+        "Stavri_Lubonja",
+        "Xhevdet_Shaqiri"
+    ],
+    "Asian_Infrastructure_Investment_Bank": [
+        "Li_Qiang_government",
+        "Supreme_command_of_the_armed_forces_in_China",
+        "1st_Mobile_Contingent",
+        "Biosimilar",
+        "Modernization_of_the_People%27s_Liberation_Army"
+    ],
+    "Hungarian_Central_Statistical_Office": [
+        "Ministry_of_Interior_(Hungary)",
+        "Statistical_Office_of_the_Republic_of_Slovenia",
+        "Monaco_Statistics",
+        "Office_for_National_Statistics",
+        "Kosovo_Agency_of_Statistics"
+    ],
+    "CIA_World_Factbook": [
+        "Government",
+        "The_New_York_Times_Almanac",
+        "National_Security_Agency",
+        "France",
+        "Magnetic_tape"
+    ],
+    "Historicism": [
+        "Hannah_Arendt",
+        "Drama",
+        "David_Hume",
+        "Feminist_history",
+        "Soviet_offensive_plans_controversy"
+    ],
+    "Inflation": [
+        "Deflation",
+        "Canada_in_World_War_I#Home_Front",
+        "Information_Age",
+        "Napoleonic_Wars",
+        "Political_economy"
+    ],
+    "Protectionism": [
+        "ISBN_(identifier)",
+        "Democratic_capitalism",
+        "Tories_(British_political_party)",
+        "Comparative_advantage",
+        "Doi_(identifier)"
+    ],
+    "TRIPS_Agreement": [
+        "Economy_of_Moldova",
+        "World_Trade_Organization",
+        "Confidential_information",
+        "Doi_(identifier)",
+        "Economy_of_Solomon_Islands"
+    ],
+    "Belgium": [
+        "FIFA_World_Rankings",
+        "Eden_Hazard",
+        "Fachhochschule",
+        "Eurostat",
+        "OCLC_(identifier)"
+    ],
+    "Trade_agreement": [
+        "Foreign_trade_of_Romania",
+        "Economic_and_monetary_union",
+        "World_Trade_Organization",
+        "European_Union_Customs_Union",
+        "Good_(economics)"
+    ],
+    "Academic_publishing": [
+        "PMID_(identifier)",
+        "EASE_Guidelines_for_Authors_and_Translators_of_Scientific_Articles",
+        "Web_of_Science",
+        "Edited_volume",
+        "Scientific_priority"
+    ],
+    "Princeton_University": [
+        "Yale_University",
+        "Hun_School_of_Princeton",
+        "ISSN_(identifier)",
+        "College_endowment",
+        "Washington_Post"
+    ],
+    "Bibliographic_database": [
+        "Patent",
+        "Online_public_access_catalog",
+        "Index_card",
+        "Open_access",
+        "CORE_(research_service)"
+    ],
+    "Learning_management_system": [
+        "Hdl_(identifier)",
+        "PMC_(identifier)",
+        "ISSN_(identifier)",
+        "PMC_(identifier)",
+        "Doi_(identifier)"
+    ],
+    "First_Bulgarian_Empire": [
+        "Magyars",
+        "Cosmas_the_Priest",
+        "Central_Asia",
+        "Modern_era",
+        "Wars_of_the_Roses"
+    ],
+    "Round_Church,_Preslav": [
+        "Serbia",
+        "Karel_%C5%A0korpil",
+        "Carolingian_architecture",
+        "ISBN_(identifier)",
+        "OCLC_(identifier)"
+    ],
+    "Pottery": [
+        "Featherwork",
+        "Ghana",
+        "Ceramic_tile",
+        "Origami",
+        "India"
+    ],
+    "Preslav": [
+        "Tsar",
+        "Byala,_Ruse_Province",
+        "Strelcha",
+        "Slivnitsa",
+        "Hitrino_Municipality"
+    ],
+    "Naum_of_Preslav": [
+        "ISBN_(identifier)",
+        "Great_Moravia",
+        "ISBN_(identifier)",
+        "Bulgarian_language",
+        "Sar%C4%B1_Salt%C4%B1k"
+    ],
+    "Seville": [
+        "Logro%C3%B1o",
+        "Del%C3%A9mont",
+        "Castell%C3%B3n_de_la_Plana",
+        "Donizetti",
+        "Munich"
+    ],
+    "Climate_of_Sweden": [
+        "Nature_Geoscience",
+        "Sk%C3%B6vde",
+        "Lule%C3%A5",
+        "Nyk%C3%B6ping",
+        "Temperate_climate"
+    ],
+    "Cyclone_Ianos": [
+        "Climate_change",
+        "Ionian_Sea",
+        "Karditsa",
+        "Kefalonia",
+        "Sea_surface_temperature"
+    ],
+    "Baetic_Depression": [
+        "Upper_Thracian_Plain",
+        "Andalusia",
+        "Spain",
+        "Alluvial_plain",
+        "Bulgaria"
+    ],
+    "Climate_of_Portugal": [
+        "Continental_Portugal",
+        "Continental_Portugal",
+        "Climate_of_Latvia",
+        "Geography_of_the_Isle_of_Man",
+        "Santa_Maria_Island_(Azores)"
+    ],
+    "Transshipment": [
+        "Potash",
+        "Doi_(identifier)",
+        "Western_Australia",
+        "Transshipment_problem",
+        "Queensland"
+    ],
+    "SSRN_(identifier)": [
+        "Social_sciences",
+        "LexisNexis_Risk_Solutions",
+        "RELX",
+        "New_York_Comic_Con",
+        "Martindale-Hubbell"
+    ],
+    "Mastercard": [
+        "American_Express",
+        "ISSN_(identifier)",
+        "Apple_Inc.",
+        "Interchange_fee",
+        "Loyalty_program"
+    ],
+    "Countering_America%27s_Adversaries_Through_Sanctions_Act": [
+        "The_Hill_(newspaper)",
+        "START_III",
+        "Continental_shelf_of_Russia",
+        "2017_St._Petersburg_raid",
+        "Korean_Central_News_Agency"
+    ],
+    "Sanctions_against_North_Korea": [
+        "List_of_sovereign_states",
+        "Kim_Jong_Un",
+        "UN_Security_Council_Resolutions",
+        "2021%E2%80%932023_North_Korean_missile_tests",
+        "ISSN_(identifier)"
+    ],
+    "Brian_Kemp": [
+        "ISSN_(identifier)",
+        "Governor_of_Alaska",
+        "Henry_Dickerson_McDaniel",
+        "HuffPost",
+        "Sarah_Huckabee_Sanders"
+    ],
+    "Flannery_O%E2%80%99Connor": [
+        "The_New_York_Times",
+        "The_Hair_of_Harold_Roux",
+        "The_New_Yorker",
+        "ISBN_(identifier)",
+        "Catherine_Evans_Whitener"
+    ],
+    "Monroe_F._Swilley_Jr._Library": [
+        "WMUM-TV",
+        "American_Baptist_Historical_Society",
+        "Claude_Smith_Field",
+        "Mercer_University_Press",
+        "WMUM-FM"
+    ],
+    "Allman_Brothers_Band": [
+        "Whipping_Post_(song)",
+        "Win,_Lose_or_Draw_(album)",
+        "Stormy_Monday",
+        "Southern_Blood_(album)",
+        "ISBN_(identifier)"
+    ],
+    "Svyataya_Anna": [
+        "Carsten_Richardson",
+        "John_Franklin",
+        "Wally_Herbert",
+        "Jonas_Poole",
+        "Valerian_Albanov"
+    ],
+    "Jacob_van_Heemskerck": [
+        "French_ship_Astrolabe_(1811)",
+        "Pyotr_Anjou",
+        "Lake_Vostok",
+        "Isabel_(1850_ship)",
+        "Boris_Vilkitsky"
+    ],
+    "Vladimir_Lenin": [
+        "Central_Asia",
+        "Ibn_Khaldun",
+        "From_each_according_to_his_ability,_to_each_according_to_his_needs",
+        "Oleg_Lobov",
+        "Nikolai_Bukharin"
+    ],
+    "Cadwalader_Ringgold": [
+        "Drifting_ice_station",
+        "Robert_Bartlett_(explorer)",
+        "Terra_Nova_Expedition",
+        "James_Cook",
+        "Richard_E._Byrd"
+    ],
+    "James_Hall_(explorer)": [
+        "Mikhail_Somov",
+        "Vasili_Pronchishchev",
+        "Henry_Frederick_Stephenson",
+        "Pole_of_Cold",
+        "Helmer_Hanssen"
+    ],
+    "1989%E2%80%931991_Ukrainian_revolution": [
+        "Lviv",
+        "Era_of_Stagnation",
+        "National_University_of_Kharkiv",
+        "Soviet_empire",
+        "Fourth_Universal_of_the_Ukrainian_Central_Rada"
+    ],
+    "January_Events": [
+        "Baltic_states",
+        "George_H._W._Bush",
+        "Lithuanian_Helsinki_Group",
+        "Strike_action",
+        "1989%E2%80%931991_Ukrainian_revolution"
+    ],
+    "Kazakh_Soviet_Socialist_Republic": [
+        "Socialist_Soviet_Republic_of_Abkhazia",
+        "Derg",
+        "Russian_Soviet_Federative_Socialist_Republic",
+        "New_Union_Treaty",
+        "Kazakhs"
+    ],
+    "Open_access_in_Russia": [
+        "Environmental_issues_in_Russia",
+        "Hybrid_open-access_journal",
+        "Personification_of_Russia",
+        "Architecture_of_Russia",
+        "List_of_fjords_of_Russia"
+    ],
+    ".su": [
+        ".iq",
+        ".hr",
+        "Runet",
+        "Brahmic_scripts",
+        "Conscription_in_the_Soviet_Union"
+    ],
+    "Pope_Mark": [
+        "Nahum",
+        "Pope_Sisinnius",
+        "Agnes_of_Rome",
+        "Dionysius_of_Corinth",
+        "Luke_the_Evangelist"
+    ],
+    "Lutheranism": [
+        "Formula_of_Concord",
+        "Heresy_in_Christianity",
+        "Johann_Heinrich_Callenberg",
+        "Doi_(identifier)",
+        "Ecumenism#Opposition_to_ecumenism"
+    ],
+    "Novi_Sad": [
+        "Drvar",
+        "Bege%C4%8D",
+        "Lug_(Beo%C4%8Din)",
+        "Ufa",
+        "Kni%C4%87"
+    ],
+    "Incorruptibility": [
+        "Mummy#Czech_Republic",
+        "Diocese_of_%C3%81vila",
+        "Elimelech_of_Lizhensk",
+        "Saint_Spyridon",
+        "Paramahansa_Yogananda"
+    ],
+    "Simon_the_Zealot": [
+        "Simeon_(Gospel_of_Luke)",
+        "Middle_East",
+        "Maximus_the_Confessor",
+        "Isaac",
+        "Saint_Arianus"
+    ],
+    "Spawning_bed": [
+        "Aquarium_fishery",
+        "Seine_fishing",
+        "Factory_ship",
+        "Roe",
+        "Seafood"
+    ],
+    "Cladistic": [
+        "Phenotypic_trait",
+        "Phylogenetic_network",
+        "Monophyly",
+        "Maximum_parsimony_(phylogenetics)",
+        "Clade"
+    ],
+    "EconMult": [
+        "Water_column",
+        "Maximum_sustainable_yield",
+        "Fishing_fleet",
+        "Shark_finning",
+        "Magnuson%E2%80%93Stevens_Fishery_Conservation_and_Management_Act"
+    ],
+    "Aquaculture_in_the_Philippines": [
+        "Ilocos_Region",
+        "Gillnetting",
+        "Biofouling",
+        "Taura_syndrome",
+        "Aquaculture_of_tilapia"
+    ],
+    "Culture_of_microalgae_in_hatcheries": [
+        "Fish_products",
+        "Acetate",
+        "Fish_farming",
+        "S2CID_(identifier)",
+        "Raceway_pond"
+    ],
+    "Chersonesus": [
+        "Animals_in_ancient_Greece_and_Rome",
+        "Ancient_Greek_warfare",
+        "Simonides_of_Ceos",
+        "Music_of_ancient_Greece",
+        "Greeks_in_pre-Roman_Crimea"
+    ],
+    "Diocese_of_Birobidzhan": [
+        "Diocese_of_Rostov",
+        "Orthodox_Diocese_of_Harbin_and_Manchuria",
+        "Bishop",
+        "Diocese_of_Moscow",
+        "Our_Lady_of_Kazan"
+    ],
+    "List_of_Eastern_Orthodox_saint_titles": [
+        "Sacrament#Eastern_Orthodoxy_and_Oriental_Orthodoxy",
+        "Sticheron",
+        "Autocephaly",
+        "Paschal_troparion",
+        "2018_Moscow%E2%80%93Constantinople_schism"
+    ],
+    "Orthodox_Church_of_the_Czech_Lands_and_Slovakia": [
+        "Christian_views_on_marriage",
+        "Love_of_God",
+        "Ecclesiology",
+        "Assembly_of_Canonical_Orthodox_Bishops_of_the_United_States_of_America",
+        "Charta_Oecumenica"
+    ],
+    "Bishop": [
+        "Pax_(liturgy)",
+        "Earl",
+        "Christian_prayer",
+        "Sacramental_bread",
+        "Crucifer"
+    ],
+    "Salome_Dadiani": [
+        "List_of_Georgian_princely_families",
+        "Alain_de_Rohan-Chabot",
+        "Niko_I_Dadiani",
+        "ISBN_(identifier)",
+        "Mingrelia"
+    ],
+    "Mingrelia": [
+        "Racha-Lechkhumi_and_Kvemo_Svaneti",
+        "Adjara",
+        "Lechkhumi",
+        "Machakheli",
+        "Khevi"
+    ],
+    "David_Dadiani": [
+        "Imperial_Guard_(Russia)",
+        "Vasili_Bebutov",
+        "Russian_Empire",
+        "Prince_of_Mingrelia",
+        "Kakheti"
+    ],
+    "Niko_Dadiani,_Prince_of_Megrelia": [
+        "Martvili",
+        "Aide-de-camp",
+        "Nicholas_I_of_Russia",
+        "Issue_(genealogy)",
+        "Prince_Regnant"
+    ],
+    "Darya_Nikolayevna_Saltykova": [
+        "Saltykov",
+        "Nikolai_Saltykov",
+        "Hungary",
+        "Wayback_Machine",
+        "Empress"
+    ],
+    "Ugresha_Monastery": [
+        "Kolomna",
+        "Felix_Edmundovich_Dzerzhinsky",
+        "Russian_language",
+        "Battle_of_Kulikovo",
+        "Nicholas_II_of_Russia"
+    ],
+    "Stauropegic": [
+        "Christian_worship",
+        "Estonia",
+        "New_Testament",
+        "Novospassky_Monastery",
+        "Christian_liturgy"
+    ],
+    "Epiphany_Monastery": [
+        "Estate_(house)",
+        "Church_(building)",
+        "Bishop",
+        "October_Revolution",
+        "Desyatina"
+    ],
+    "Krutitsy": [
+        "Chudov_Monastery",
+        "Petr_Baranovsky",
+        "Konstantin_Thon",
+        "Mongols",
+        "Nativity_Convent_(Moscow)"
+    ],
+    "Karelia": [
+        "Cornish_nationalism",
+        "Middle_East",
+        "Castilian_nationalism",
+        "Lombard_nationalism",
+        "Medvezhyegorsk"
+    ],
+    "Peter_II_of_Russia": [
+        "Grand_Duke_Nicholas_Mikhailovich_of_Russia",
+        "Yuri_II_of_Vladimir",
+        "Agnatic_seniority",
+        "Yuri_II_of_Vladimir",
+        "Catherine_the_Great"
+    ],
+    "Poles_(people)": [
+        "Poles_in_the_Soviet_Union",
+        "Slavic_migration",
+        "Demonym",
+        "White-tailed_eagle",
+        "T%E2%80%93V_distinction"
+    ],
+    "Kazan_Khanate": [
+        "Leaders_of_the_Russian_Civil_War",
+        "Dual_power",
+        "Romanization_of_Russian",
+        "Morza",
+        "Nogai_Horde"
+    ],
+    "Oprichnina": [
+        "Eastern_Orthodox_Church",
+        "Sergei_Eisenstein",
+        "NKVD",
+        "Death_by_boiling",
+        "Crimean_Khanate"
+    ],
+    "Amgun": [
+        "Solnechny_District",
+        "Drainage_basin",
+        "Khabarovsk_Krai",
+        "Khabarovsk_Krai",
+        "Komsomolsk-on-Amur"
+    ],
+    "Mayn": [
+        "List_of_rivers_of_Russia",
+        "Chukotka_Autonomous_Okrug",
+        "Anadyr_(river)",
+        "Anadyr_(river)",
+        "Bering_Sea"
+    ],
+    "Volsk": [
+        "Krasnokutsky_District",
+        "Time_zone",
+        "OKTMO",
+        "Krasnoarmeysk,_Saratov_Oblast",
+        "Mikhaylovsky,_Saratov_Oblast"
+    ],
+    "Chapayevka_(river)": [
+        "Bogdashkina",
+        "Arga-Yuryakh",
+        "Katun_(river)",
+        "Muna_(Lena)",
+        "Uglich_Reservoir"
+    ],
+    "Eldar_Ryazanov": [
+        "Film_director",
+        "USSR_State_Prize",
+        "Andrei_Konchalovsky",
+        "Vyacheslav_Tikhonov",
+        "Office_Romance"
+    ],
+    "Soviet_of_Nationalities": [
+        "CIS_Interparliamentary_Assembly",
+        "Orgburo",
+        "Politics_of_the_Soviet_Union",
+        "Ideology_of_the_Communist_Party_of_the_Soviet_Union",
+        "Kyrgyz_language"
+    ],
+    "Communist_Party_of_Kirghizia": [
+        "Central_Committee_of_the_15th_Congress_of_the_All-Union_Communist_Party_(Bolsheviks)",
+        "Central_Committee_of_the_13th_Congress_of_the_All-Union_Communist_Party_(Bolsheviks)",
+        "Central_Committee_of_the_25th_Congress_of_the_Communist_Party_of_the_Soviet_Union",
+        "List_of_political_parties_in_Kyrgyzstan",
+        "4th_Congress_of_the_Russian_Social_Democratic_Labour_Party"
+    ],
+    "Secretariat_of_the_17th_Congress_of_the_All-Union_Communist_Party_(Bolsheviks)": [
+        "Central_Auditing_Commission_of_the_8th,_10th,_13th,_14th_and_15th_Congress_of_the_All-Union_Communist_Party_(Bolsheviks)",
+        "Secretariat_of_the_19th_Congress_of_the_Communist_Party_of_the_Soviet_Union",
+        "Presidium_of_the_20th_Congress_of_the_Communist_Party_of_the_Soviet_Union",
+        "Presidium_of_the_22nd_Congress_of_the_Communist_Party_of_the_Soviet_Union",
+        "Secretariat_of_the_16th_Congress_of_the_All-Union_Communist_Party_(Bolsheviks)"
+    ],
+    "Alania_(political_party)": [
+        "Union_of_Greens_of_Russia",
+        "List_of_political_parties_in_Russia",
+        "All-Russian_Sociopolitical_Movement_of_Women_of_Russia",
+        "Soviet_Union",
+        "Fatherland_Socialist_Party"
+    ],
+    "Yuri_Dolgoruky": [
+        "Oleg_II_Svyatoslavich",
+        "Mikhail_of_Vladimir",
+        "Primary_Chronicle",
+        "Feodor_III_of_Russia",
+        "Yaropolk_II_of_Kiev"
+    ],
+    "List_of_heads_of_Moscow_government": [
+        "Alexei_Grigorievich_Scherbatov",
+        "Boris_Yusupov",
+        "Residence_of_the_Mayor_of_Moscow",
+        "Alexander_Prozorovsky",
+        "Georgi_Popov"
+    ],
+    "Mayakovskaya_(Moscow_Metro)": [
+        "Lermontovsky_Prospekt",
+        "Moskva-City_(Filyovskaya_line)",
+        "Izmaylovo_(Moscow_Central_Circle)",
+        "Ozyornaya_(Moscow_Metro)",
+        "Kashirskaya"
+    ],
+    "Stalinist_architecture": [
+        "Soviet%E2%80%93Japanese_border_conflicts",
+        "1931_Menshevik_Trial",
+        "1979_Soviet_economic_reform",
+        "White_House_(Moscow)",
+        "Stakhanovite"
+    ],
+    "Bolshaya_Koltsevaya_line": [
+        "Moscow_Central_Circle",
+        "Sokolnicheskaya_line",
+        "Line_D4_(Moscow_Central_Diameters)",
+        "Zyuzino_(Moscow_Metro)",
+        "Maryina_Roshcha_railway_station"
+    ],
+    "Ulitsa_Dmitriyevskogo": [
+        "Ramenki_(Moscow_Metro)",
+        "Mayakovskaya_(Moscow_Metro)",
+        "Avtozavodskaya_(Moscow_Central_Circle)",
+        "Delovoy_Tsentr_(Kalininsko-Solntsevskaya_line)",
+        "Smolensky_Metro_Bridge"
+    ],
+    "767": [
+        "Eurasia_(train)",
+        "PKP_class_OKl27",
+        "ER9_electric_trainset",
+        "DRB_Class_52",
+        "Tagansko-Krasnopresnenskaya_line"
+    ],
+    "Komsomolskaya_(Koltsevaya_line)": [
+        "Tushinskaya_(Moscow_Metro)",
+        "Kitay-gorod_(Moscow_Metro)",
+        "Rumyantsevo_(Moscow_Metro)",
+        "Sokolniki_(Sokolnicheskaya_line)",
+        "Annino_(Moscow_Metro)"
+    ],
+    "Krymskaya_(Moscow_Central_Circle)": [
+        "Ulitsa_Akademika_Yangelya",
+        "Delovoy_Tsentr_(Moscow_Central_Circle)",
+        "S-Train",
+        "Shelepikha_(Moscow_Central_Circle)",
+        "Vladykino_(Moscow_Central_Circle)"
+    ],
+    "Kivu_shrew": [
+        "Voracious_shrew",
+        "Kilimanjaro_mouse_shrew",
+        "Atelerix",
+        "Japanese_water_shrew",
+        "Ognev%27s_mole"
+    ],
+    "Crosse%27s_shrew": [
+        "Gracile_shrew_mole",
+        "Chinese_water_shrew",
+        "Apennine_shrew",
+        "Talpa_(genus)",
+        "Crocidura_grandiceps"
+    ],
+    "Mammal": [
+        "Crocodylomorpha",
+        "Hyracoidea",
+        "ISBN_(identifier)",
+        "Food_and_Agriculture_Organization",
+        "Euharamiyida"
+    ],
+    "The_Guardian": [
+        "Investigation_Discovery_(European_TV_channel)",
+        "Press_Gazette",
+        "Press_Gazette",
+        "Edinburgh_International_Television_Festival",
+        "Oleg_Gordievsky"
+    ],
+    "10th_edition_of_Systema_Naturae": [
+        "Phalarope",
+        "Woodlouse",
+        "De_plantis_libri_XVI",
+        "Dolphin",
+        "Geranium_pusillum"
+    ],
+    "Kalininskaya_line": [
+        "Butyrskaya_(Moscow_Metro)",
+        "Butovskaya_line",
+        "Komsomolskaya_(Koltsevaya_line)",
+        "Kaluzhsko-Rizhskaya_line",
+        "Avtozavodskaya_(Moscow_Central_Circle)"
+    ],
+    "Serpukhovsko-Timiryazevskaya_line": [
+        "Panfilovskaya_(Moscow_Central_Circle)",
+        "Tulskaya_(Moscow_Metro)",
+        "Altufyevo_(Moscow_Metro)",
+        "Novokosino_(Moscow_Metro)",
+        "Pechatniki_(Lyublinsko-Dmitrovskaya_line)"
+    ],
+    "Tsaritsyno_(Moscow_Metro)": [
+        "Akademicheskaya_(Kommunarskaya_line)",
+        "Aeroport_(Moscow_Metro)",
+        "Nekrasovskaya_line",
+        "Domodedovskaya",
+        "Marksistskaya_(Moscow_Metro)"
+    ],
+    "General_Staff_of_the_Armed_Forces_of_the_Russian_Federation": [
+        "Colonel_General#Russia",
+        "Main_Missile_and_Artillery_Directorate",
+        "Moscow",
+        "General_Staff_Building_(Moscow)",
+        "Romanization_of_Russian"
+    ],
+    "Okhotny_Ryad_(metro)": [
+        "Akademicheskaya_(Kommunarskaya_line)",
+        "Kozhukhovskaya",
+        "Arbatsko-Pokrovskaya_Line",
+        "Krasnogvardeyskaya_(Moscow_Metro)",
+        "Delovoy_Tsentr_(Rublyovo-Arkhangelskaya_line)"
+    ],
+    "Moscow_Central_Circle": [
+        "Petrovsko-Razumovskaya_(Moscow_Metro)",
+        "Moscow_Monorail",
+        "Moskva_River_Cable_Car",
+        "Solntsevskaya_line",
+        "Line_D1_(Moscow_Central_Diameters)"
+    ],
+    "Tekhnopark_(Zamoskvoretskaya_line)": [
+        "Petrovsko-Razumovskaya_(Moscow_Metro)",
+        "Ozyornaya_(Moscow_Metro)",
+        "Teatralnaya_(Moscow_Metro)",
+        "Kolomenskaya_(Moscow_Metro)",
+        "Lianozovo_(Moscow_Metro)"
+    ],
+    "Arbatskaya_(Filyovskaya_line)": [
+        "Filyovsky_Park_(Moscow_Metro)",
+        "Bolshaya_Koltsevaya_line",
+        "Tulskaya_(Moscow_Metro)",
+        "Moscow_Metro",
+        "Serpukhovsko-Timiryazevskaya_line"
+    ],
+    "Trubnaya_(Moscow_Metro)": [
+        "Lyublinsko-Dmitrovskaya_line",
+        "Tsvetnoy_Bulvar",
+        "Bibirevo_(Moscow_Metro)",
+        "Rasskazovka",
+        "Russian_language"
+    ],
+    "Kotelniki_(Moscow_Metro)": [
+        "Salaryevo_(Moscow_Metro)",
+        "Terekhovo_(Moscow_Metro)",
+        "Yuzhny_Port",
+        "Ulitsa_Gorchakova",
+        "Butyrskaya_(Moscow_Metro)"
+    ],
+    "Great_Green_Wall_(Africa)": [
+        "Social_forestry_in_India",
+        "Mahogany",
+        "World_Day_to_Combat_Desertification_and_Drought",
+        "Natural_resources",
+        "United_Nations_Food_and_Agriculture_Organization"
+    ],
+    "Wood_processing": [
+        "List_of_forestry_ministries",
+        "Timber_recycling",
+        "Logging",
+        "Forest_degradation",
+        "Natural_building"
+    ],
+    "Programme_for_the_Endorsement_of_Forest_Certification": [
+        "Urban_forestry",
+        "Tree_allometry",
+        "Tree_height_measurement",
+        "Forest_area",
+        "Forestry_law"
+    ],
+    "South_Africa": [
+        "Bouvet_Island",
+        "South_African_Institute_of_Race_Relations",
+        "Die_Antwoord",
+        "Economy_of_Moldova",
+        "Open-cycle_gas_turbine"
+    ],
+    "Biophilia_hypothesis": [
+        "Anti-nuclear_movement",
+        "Environmental_education",
+        "Environmental_protection",
+        "Stewardship",
+        "Fractal_dimension"
+    ],
+    "French_fries": [
+        "Cepelinai",
+        "Cuban_cuisine#List_of_Cuban_dishes_and_foods",
+        "X%C3%B4i",
+        "List_of_Italian_cheeses",
+        "List_of_Greek_dishes"
+    ],
+    "Cheese": [
+        "Halloumi_cheese",
+        "Food_and_Agriculture_Organization",
+        "Netherlands",
+        "Bibcode_(identifier)",
+        "PMID_(identifier)"
+    ],
+    "Malawian_cuisine": [
+        "Mongolian_cuisine",
+        "Balearic_cuisine",
+        "List_of_European_cuisines",
+        "Russian_cuisine",
+        "Aztec_cuisine"
+    ],
+    "Groat_(grain)": [
+        "AWB_Limited",
+        "Eastern_Europe",
+        "Brenntar",
+        "ISBN_(identifier)",
+        "Ready_Brek"
+    ],
+    "Beer": [
+        "Manioc",
+        "ISBN_(identifier)",
+        "Kvass",
+        "Wayback_Machine",
+        "Eisbock"
+    ],
+    "Angolan_Civil_War": [
+        "Estado_Novo_(Portugal)",
+        "History_of_Angola",
+        "Red_Scorpion",
+        "Public_holidays_in_Angola",
+        "Robert_Hugh_Ferrell"
+    ],
+    "Education_in_Guyana": [
+        "Educational_attainment",
+        "Education_in_Maldives",
+        "Education_in_Venezuela",
+        "Hedge_school",
+        "Polytechnic_University_of_the_Philippines_College_Entrance_Test"
+    ],
+    "Education_in_Somalia": [
+        "Grass-roots",
+        "Education_in_Belarus",
+        "Education_in_Russia",
+        "Education_in_Australia",
+        "Education_in_Benin"
+    ],
+    "Outline_of_Angola": [
+        "Economy_of_Angola",
+        "Cuanza_Norte",
+        "Cuimba",
+        "Capital_of_Angola",
+        "U%C3%ADge_(province)"
+    ],
+    "Education_in_Poland": [
+        "Education_in_Luxembourg",
+        "Education_in_Suriname",
+        "Parliament_of_Poland",
+        "Education_in_Lithuania",
+        "Polish_language"
+    ],
+    "Lower_house": [
+        "Anarchy",
+        "Legislative_Assembly",
+        "Parliament_of_Grenada#House_of_Representatives",
+        "House_of_Representatives_(Antigua_and_Barbuda)",
+        "Ombudsman"
+    ],
+    "Burgemeester": [
+        "Lord_mayor",
+        "Belarusian_language",
+        "Icelandic_language",
+        "Town",
+        "Aargau"
+    ],
+    "Coat_of_arms_of_the_Netherlands": [
+        "Prince-Bishopric_of_Utrecht",
+        "List_of_World_Heritage_Sites_in_the_Netherlands",
+        "Coat_of_arms_of_Ukraine",
+        "Armed_forces_of_the_Netherlands",
+        "Telecommunications_in_the_Netherlands"
+    ],
+    "Liberation_Day_(Netherlands)": [
+        "Netherlands_in_World_War_II#Liberation",
+        "Johannes_Blaskowitz",
+        "OCLC_(identifier)",
+        "Netherlands",
+        "Nazi_Germany"
+    ],
+    "Kingdom_of_the_Netherlands": [
+        "Commonwealth_Games",
+        "Battle_of_Waterloo",
+        "Dutch_language",
+        "Saba_(island)",
+        "Aruba"
+    ],
+    "Ptolemy": [
+        "Doi_(identifier)",
+        "Epicycle",
+        "ISBN_(identifier)",
+        "Egypt_(Roman_province)",
+        "Eratosthenes"
+    ],
+    "Geisteswissenschaft": [
+        "History",
+        "Law",
+        "Self-reflection",
+        "Technical_geography",
+        "Critical_theory"
+    ],
+    "Bibcode_(identifier)": [
+        "Astrophysics_Data_System",
+        "Physical_Review_Letters",
+        "Agronomy_Journal",
+        "Doi_(identifier)",
+        "Bibcode_(identifier)"
+    ],
+    "Yi-Fu_Tuan": [
+        "American_Association_for_the_Advancement_of_Science",
+        "Michael_Batty",
+        "Doi_(identifier)",
+        "Peter_Gould_(geographer)",
+        "Bibcode_(identifier)"
+    ],
+    "Culture_theory": [
+        "Evolutionary_anthropology",
+        "Paleoanthropology",
+        "Environmental_archaeology",
+        "Constructed_culture",
+        "Intercultural_learning"
+    ],
+    "Burgundian_Circle": [
+        "Treaty_of_Paris_(1515)",
+        "Circle_of_Swabia",
+        "House_of_Habsburg",
+        "History_of_Luxembourg#Developing_independence_(1815\u20131890)",
+        "Lordship_of_Friesland"
+    ],
+    "County_of_Pyrmont": [
+        "Pyrmont,_New_South_Wales",
+        "Thomas_Klenke",
+        "Hannover%E2%80%93Braunschweig%E2%80%93G%C3%B6ttingen%E2%80%93Wolfsburg_Metropolitan_Region",
+        "Districts_of_Germany",
+        "Lower_Saxony"
+    ],
+    "List_of_lakes_of_the_Netherlands": [
+        "North_Holland",
+        "Prime_Minister_of_the_Netherlands",
+        "List_of_lakes_of_Iceland",
+        "List_of_lakes_of_Sweden",
+        "List_of_lakes_of_the_Czech_Republic"
+    ],
+    "Diocese_of_Utrecht_(695%E2%80%931580)": [
+        "Frederik_V_Schenck_van_Toutenburg",
+        "ISBN_(identifier)",
+        "Public_domain",
+        "George_Edmundson",
+        "Balderic_of_Utrecht"
+    ],
+    "Polder_model": [
+        "Dutch_customs_and_etiquette",
+        "Pim_Fortuyn",
+        "Communization",
+        "Frisians",
+        "Irreligion_in_the_Netherlands"
+    ],
+    "Otto_von_Bismarck": [
+        "National_Right_(Liberal_Party_of_Australia)",
+        "Bourbon_Restoration_in_France",
+        "B%C3%BCrgerblock-Regierung",
+        "Georg_Michaelis",
+        "Harry_von_Arnim"
+    ],
+    "Johns_Hopkins_University": [
+        "California_State_University,_Northridge",
+        "Central_Connecticut_State_University",
+        "Saint_Louis_University",
+        "Massachusetts_Institute_of_Technology",
+        "U.S._News_%26_World_Report"
+    ],
+    "University_of_Chicago": [
+        "Yale_University",
+        "University_of_Chicago_Harris_School_of_Public_Policy",
+        "Carnegie_Mellon_University",
+        "List_of_University_of_Chicago_faculty",
+        "University_of_Chicago_Hong_Kong"
+    ],
+    "Humboldt_University_of_Berlin": [
+        "Heidelberg_University",
+        "Berlin_Tempelhof_Airport",
+        "Verso_Books",
+        "Berlin",
+        "Stasi_Museum"
+    ],
+    "University_of_T%C3%BCbingen": [
+        "Friedrich_Althoff",
+        "Times_Higher_Education_World_University_Rankings",
+        "University_of_Ljubljana",
+        "Lower_Saxony",
+        "University_of_Giessen"
+    ],
+    "Associate_instructor": [
+        "Agr%C3%A9gation",
+        "Chancellor_(education)",
+        "Professors_in_the_United_States",
+        "Teaching_Fellow",
+        "Teaching_assistant"
+    ],
+    "Academic_ranks_in_the_Czech_Republic_and_in_Slovakia": [
+        "Academic_ranks_in_Norway",
+        "Associate_lecturer",
+        "Associate_instructor",
+        "Schoolmaster",
+        "Teaching_fellow"
+    ],
+    "Academic_tenure": [
+        "Maximum_wage",
+        "Employment_counsellor",
+        "Recession",
+        "Avocation",
+        "Habilitation#Germany"
+    ],
+    "Associate_lecturer": [
+        "Academic_ranks_in_the_United_States",
+        "Distinguished_professor",
+        "Academic_ranks_in_India",
+        "Academic_ranks_in_Russia",
+        "Academic_ranks_(Australia_and_New_Zealand)"
+    ],
+    "Academic_ranks_in_Denmark": [
+        "Professor",
+        "List_of_academic_ranks",
+        "Senior_lecturer",
+        "Academic_ranks_in_the_Netherlands",
+        "Lecturer"
+    ],
+    "Middle_German_Chemical_Triangle": [
+        "Music_of_Germany",
+        "Gothic_Wars",
+        "Federal_Government_of_Germany",
+        "Mittelstand",
+        "Prostitution_in_Germany"
+    ],
+    "Education_in_Turkey": [
+        "Education_in_Thailand",
+        "Education_in_Vietnam",
+        "Turkish_language",
+        "Education_in_Syria",
+        "Galatasaray_High_School"
+    ],
+    "Foreign_relations_of_Germany": [
+        "Belgium",
+        "Uganda",
+        "P%C3%A9cs",
+        "Argentina",
+        "World_Trade_Organization"
+    ],
+    "University_cafeteria": [
+        "Kitchen",
+        "Convenience_food",
+        "Social_class_differences_in_food_consumption",
+        "Refectory",
+        "Catering"
+    ],
+    "List_of_cities_and_towns_in_Germany": [
+        "Trade_unions_in_Germany",
+        "Ostritz",
+        "List_of_cities_and_towns_in_Andorra",
+        "P%C3%B6%C3%9Fneck",
+        "Lindow_(Mark)"
+    ],
+    "Education_in_Mali": [
+        "Education_in_Iran",
+        "Education_in_Bahrain",
+        "ISSN_(identifier)",
+        "2012_Malian_coup_d%27%C3%A9tat",
+        "Elections_in_Mali"
+    ],
+    "Education_in_Andorra": [
+        "Venice_Commission",
+        "Rugby_union",
+        "FTTx",
+        "Pyrenees",
+        "UNESCO"
+    ],
+    "Education_in_Uruguay": [
+        "Education_in_the_Dominican_Republic",
+        "Demographics_of_Uruguay",
+        "Education_in_Brazil",
+        "Education_in_Liechtenstein",
+        "Education_in_Azerbaijan"
+    ],
+    "Education_in_Eswatini": [
+        "Education_in_Lesotho",
+        "Education_in_Sierra_Leone",
+        "Education_in_Mozambique",
+        "Education_in_Nicaragua",
+        "Education_in_Comoros"
+    ],
+    "Education_in_Bahrain": [
+        "Education_in_Kazakhstan",
+        "Education_in_Portugal",
+        "Education_in_Haiti",
+        "Education_in_Timor-Leste",
+        "Education_in_Northern_Cyprus"
+    ],
+    "Comprehensive_high_school": [
+        "Public_school_(United_Kingdom)",
+        "Cadet_college",
+        "Middle_school",
+        "Comprehensive_school",
+        "All-through_school"
+    ],
+    "Arlington,_Virginia": [
+        "Deep_South",
+        "Ballston,_Virginia",
+        "Southampton_County,_Virginia",
+        "Langdon_(Washington,_D.C.)",
+        "Democratic_Party_of_Virginia"
+    ],
+    "Christian_school": [
+        "Academy_(English_school)",
+        "South_Africa",
+        "Dutch_people",
+        "Vocal_school",
+        "Coll%C3%A8ge_Saint_Joseph_%E2%80%93_Antoura"
+    ],
+    "Toronto": [
+        "IATA_airport_code",
+        "Great_Lakes",
+        "Christie_Pits",
+        "Grand_Prix_of_Toronto",
+        "Beijing"
+    ],
+    "Link%C3%B6ping": [
+        "Church_of_Sweden",
+        "G%C3%A4vle",
+        "Denmark",
+        "%C3%85tvidaberg",
+        "Saab_Group"
+    ],
+    "Alexandru_Ioan_Cuza_University": [
+        "Magda_Isanos",
+        "Medical_chemistry",
+        "Constantin_Dimitrescu-Ia%C8%99i",
+        "Politehnica_University_of_Timi%C8%99oara",
+        "Constantin_Stere"
+    ],
+    "University_of_Camerino": [
+        "University_of_Jordan",
+        "University_of_Perugia",
+        "University_of_Insubria",
+        "Public_university",
+        "University_of_Science_and_Technology_(Yemen)"
+    ],
+    "Gianfranco_Folena": [
+        "Academy",
+        "Feltrinelli_Prize",
+        "Piovano_Arlotto",
+        "University_of_Turin",
+        "Accademia_dei_Lincei"
+    ],
+    "RWTH_Aachen_University": [
+        "Top_Industrial_Managers_for_Europe",
+        "Technical_University_of_Munich",
+        "Klinikum_Aachen",
+        "Chemistry",
+        "Teacher_education"
+    ],
+    "Palestine_Polytechnic_University": [
+        "University_of_Palestine",
+        "Hebron",
+        "Palestine",
+        "Al-Quds_Open_University",
+        "Mechanical_engineering"
+    ],
+    "Protestant_Reformation": [
+        "Saint_Peter",
+        "History_of_Christianity",
+        "First_Bulgarian_Empire",
+        "Finnish_literature#Pre-Nineteenth_century",
+        "Fall_of_man"
+    ],
+    "On_the_Babylonian_Captivity_of_the_Church": [
+        "Beerwolf",
+        "Franciscan",
+        "Pope",
+        "Theology_of_the_Cross",
+        "Karl_von_Miltitz"
+    ],
+    "G._D._Melanchthon": [
+        "Joshua_Marshman",
+        "Estuary",
+        "Tamil_Nadu",
+        "Bachelor_of_Arts",
+        "Alma_mater"
+    ],
+    "All_Saints%27_Church,_Wittenberg": [
+        "First_Lutheran_hymnal",
+        "Lutheranism",
+        "Protestant_Reformation",
+        "Joachim_Gauck",
+        "Pilaster"
+    ],
+    "IEC_7812": [
+        "IEC_60269",
+        "JBIG",
+        "IEC_8859",
+        "EN_62262",
+        "ISO_6346"
+    ],
+    "ISO_4157": [
+        "Standards_Council_of_Canada",
+        "ISO_45001",
+        "ISO_11170",
+        "ISO_8583",
+        "ISO_2014"
+    ],
+    "ISO_10303": [
+        "ISO_10006",
+        "ISO_259",
+        "IEC_18014",
+        "CR-5000",
+        "ISO_7027"
+    ],
+    "LCEVC": [
+        "VC-6",
+        "H.261",
+        "Opus_(audio_format)",
+        "Super_Audio_CD#DST",
+        "Society_of_Motion_Picture_and_Television_Engineers"
+    ],
+    "ISO_14698": [
+        "Process_Specification_Language",
+        "JSON",
+        "ISO_3166-3",
+        "ISO_2788",
+        "IEC_15504"
+    ],
+    "Advanced_Video_Coding": [
+        "Graphical_Kernel_System",
+        "ISO_9362",
+        "Cloud_Infrastructure_Management_Interface",
+        "MPEG-2",
+        "Opus_(audio_format)"
+    ],
+    "Unified_Speech_and_Audio_Coding": [
+        "World_Wide_Web_Consortium",
+        "MPEG_Multichannel",
+        "LCEVC",
+        "RealVideo",
+        "AV1"
+    ],
+    "Media_Source_Extensions": [
+        "XSLT",
+        "Web_application",
+        "Encrypted_Media_Extensions",
+        "Microsoft",
+        "WebAuthn"
+    ],
+    "MPEG_LA": [
+        "Humax",
+        "Maxell",
+        "Panasonic",
+        "Polycom",
+        "NTT_Docomo"
+    ],
+    "File_Allocation_Table": [
+        "Microsoft",
+        "Advanced_Intelligent_Tape",
+        "Topic_map",
+        "Windows_SideShow",
+        "Megabyte"
+    ],
+    "PDF417": [
+        "Fiber_Distributed_Data_Interface",
+        "STEP-NC",
+        "IEC_8859-1",
+        "Boxing_barcode",
+        "ISO_639"
+    ],
+    "ArmSCII": [
+        "International_Standard_Identifier_for_Libraries_and_Related_Organizations",
+        "OMS_encoding",
+        "Fieldata",
+        "On-board_diagnostics",
+        "ISO_22000"
+    ],
+    "Romanization_of_Armenian": [
+        "ISO_11783",
+        "Power_take-off",
+        "ArmSCII",
+        "ISO_15118",
+        "ISO_8000"
+    ],
+    "Tea_processing": [
+        "PMC_(identifier)",
+        "Green_tea",
+        "East_Asian_tea_ceremony",
+        "Celadon",
+        "Ceylon_tea"
+    ],
+    "Requirements_engineering": [
+        "IEC_20000",
+        "Torx",
+        "IEEE_P1363",
+        "British_Standard_Pipe",
+        "Mixed_raster_content"
+    ],
+    "Taiping_houkui": [
+        "Chinese_tea_culture",
+        "Kuding",
+        "Tea_party",
+        "Hong_Kong%E2%80%93style_milk_tea",
+        "Argentine_tea_culture"
+    ],
+    "Kappa_number": [
+        "ALGOL_60",
+        "O-ring",
+        "Wood-free_paper",
+        "JPEG_XS",
+        "Ada_Semantic_Interface_Specification"
+    ],
+    "UA": [
+        "IEC_TR_12182",
+        "Photographic_Activity_Test",
+        "IEC_8859-5",
+        "ISO_31-8",
+        "ISLISP"
+    ],
+    "Legal_Entity_Identifier": [
+        "ISO_128",
+        "List_of_ISO_romanizations",
+        "MPEG-G",
+        "DICOM",
+        "ISO_45001"
+    ],
+    "ISO_15926_WIP": [
+        "ISO_12006",
+        "ISO_3307",
+        "MP4_file_format",
+        "ISO_13567",
+        "ISO_1745"
+    ],
+    "International_Standard_Audiovisual_Number": [
+        "ISO_639-2",
+        "ISO_7001",
+        "Common_Language_Infrastructure",
+        "Torx",
+        "ISO_9241"
+    ],
+    "IEC_8859-4": [
+        "Diaeresis_(diacritic)",
+        "ISO-IR",
+        "Symbol_(typeface)",
+        "M",
+        "OMS_encoding"
+    ],
+    "Prontor-Compur": [
+        "ISO_10303",
+        "Rectangular_Micro_QR_Code",
+        "ISO_31-1",
+        "ISO_10303-28",
+        "ISO_843"
+    ],
+    "Socioeconomic_mobility_in_the_United_States": [
+        "Poverty_in_the_United_States",
+        "Blaxican",
+        "East_Coast_of_the_United_States",
+        "Class_conflict",
+        "Missouri_River"
+    ],
+    "Robber_baron_(industrialist)": [
+        "Creative_class",
+        "Social_class_in_Tibet",
+        "Plutonomy",
+        "Freedman",
+        "Trust_(business)"
+    ],
+    "Absent-minded_professor": [
+        "Women_warriors_in_literature_and_culture",
+        "Supervillain",
+        "Stock_character",
+        "Scapino",
+        "The_Sword_in_the_Stone_(1963_film)"
+    ],
+    "Oligarchy": [
+        "Authoritarianism",
+        "Argumentum_ad_crumenam",
+        "University_of_Toronto_Press",
+        "Carl_Schmitt",
+        "City-state"
+    ],
+    "The_Paper_Chase_(film)": [
+        "Roger_Ebert",
+        "Walter_A._Thompson",
+        "Mike%27s_Murder",
+        "James_Bridges",
+        "John_Williams"
+    ],
+    "Mordvins": [
+        "Karata_people",
+        "Estonians",
+        "Kven_people",
+        "Koryaks",
+        "Mastorava"
+    ],
+    "Vepsian": [
+        "Koryo-saram",
+        "Vytegorsky_District",
+        "Astrakhan_Kazakhs",
+        "Godoberi_people",
+        "Adjarians"
+    ],
+    "Moscow_Engineering_Physics_Institute": [
+        "Embry%E2%80%93Riddle_Aeronautical_University",
+        "Skolkovo_Institute_of_Science_and_Technology",
+        "Astrakhan_State_University",
+        "Cherepovets_State_University",
+        "Kristianstad_University"
+    ],
+    "International_Standard_Classification_of_Education": [
+        "Doctorate",
+        "Lower_secondary_school",
+        "Terminal_degree",
+        "Basic_education",
+        "Postgraduate_diploma"
+    ],
+    "Higher_doctorate": [
+        "Holy_Orders",
+        "Doctor_of_Business_Administration",
+        "Doctor_of_Science",
+        "French_National_Centre_for_Scientific_Research",
+        "Ph.D."
+    ],
+    "D.D.": [
+        "Catholic_higher_education",
+        "Anglicanism",
+        "DD_(disambiguation)",
+        "Convocation#University_use",
+        "Boston_University"
+    ],
+    "Higher_National_Diploma": [
+        "Postgraduate_diploma",
+        "Graduate_diploma",
+        "Associate_degree",
+        "Magister_degree",
+        "GCSE"
+    ],
+    "Habilitation": [
+        "Master_of_Arts_(Oxford,_Cambridge_and_Dublin)",
+        "Junior_professor",
+        "Professorship",
+        "Habilitation_to_Supervise_Research",
+        "States_of_Germany"
+    ],
+    "Master_of_Arts_(Oxford,_Cambridge_and_Dublin)": [
+        "Union_College",
+        "Republic_of_Ireland",
+        "Convocation",
+        "Grammar_school",
+        "Steamboat_ladies"
+    ],
+    "Master_of_Advanced_Studies": [
+        "Artist_diploma",
+        "Part_III_of_the_Mathematical_Tripos",
+        "Higher_National_Diploma",
+        "Undergraduate_degree",
+        "Dipl%C3%B4me_d%27%C3%A9tudes_sup%C3%A9rieures_sp%C3%A9cialis%C3%A9es"
+    ],
+    "Bologna_process": [
+        "Luigi_Berlinguer",
+        "Hungary",
+        "European_Cultural_Convention",
+        "Education_in_Azerbaijan",
+        "Education_in_Iceland"
+    ],
+    "R%C3%A9pertoire_national_des_certifications_professionnelles": [
+        "France",
+        "Titre_(degree)",
+        "Education_in_France",
+        "Commission_nationale_de_la_certification_professionnelle",
+        "Vocational_training"
+    ],
+    "Master%27s_degree_in_the_United_Kingdom": [
+        "LL.M.",
+        "Trinity_College_Dublin",
+        "Master_of_Arts",
+        "Quality_Assurance_Agency",
+        "Theory"
+    ],
+    "Master_of_Arts_(Oxbridge)": [
+        "Bachelor_of_Architecture",
+        "Terminal_degree",
+        "Yorkshire_Post",
+        "Doctor_of_Civil_Law",
+        "ISSN_(identifier)"
+    ],
+    "European_Higher_Education_Area": [
+        "Diploma_Supplement",
+        "Homologation",
+        "Kazakhstan",
+        "Denmark",
+        "Iceland"
+    ],
+    "Education_in_the_Czech_Republic": [
+        "History_of_the_Czech_lands",
+        "Education_in_Guernsey",
+        "Education_in_Greece",
+        "List_of_rivers_of_the_Czech_Republic",
+        "Music_of_the_Czech_Republic"
+    ],
+    "Crediti_formativi_universitari": [
+        "Bologna_process",
+        "European_Credit_Transfer_and_Accumulation_System",
+        "Italian_language",
+        "European_Credit_Transfer_and_Accumulation_System",
+        "European_Credit_Transfer_and_Accumulation_System"
+    ]
+}
