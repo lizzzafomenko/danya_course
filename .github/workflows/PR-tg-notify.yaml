@@ -43,7 +43,7 @@ jobs:
           repo_name: ${{ github.repository }}
 
         run: |
-          python <<EOF
+          python << 'EOF'
           import os
           import requests
 
