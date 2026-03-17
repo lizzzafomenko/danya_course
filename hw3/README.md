@@ -18,6 +18,7 @@
 
 
 **timeout работает**
+
 Чтобы проверить и показать, что оно работает, смотри скрин ниже (поставила server.sleep перед ответом клиенту)
 
 <img src="screens/artificial_timeout.png" width="600" height="400">
@@ -26,6 +27,9 @@
 
 <img src="screens/real_timeout.png" width="600" height="400">
 
+### [`gttp_async_server.py`](./gttp_async_server.py)
+*   `--ip` (`-ip`): IP
+*   `--port` (`-p`): server port
 
 **пример выигрыша**
 
