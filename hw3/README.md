@@ -22,20 +22,20 @@ python gttp_async_server.py --ip 127.0.0.1 --port 12345
 Но на клиента добавила timeout, задаем с `HELO 5.0`. 
 
 
-**timeout работает**
+#### **timeout работает**
 
 Чтобы проверить и показать, что оно работает, смотри скрин ниже (поставила server.sleep перед ответом клиенту)
 
 <img src="screens/artificial_timeout.png" width="600" height="400">
 
-**а бывает такое, что timepout действительно происходит (без sleep)**
+#### **а бывает такое, что timepout действительно происходит (без sleep)**
 
 <img src="screens/real_timeout.png" width="600" height="400">
 
-**пример выигрыша**
+#### **пример выигрыша**
 
 <img src="screens/winner.png" width="600" height="400">
 
-**пример проигрыша**
+#### **пример проигрыша**
 
-<img src="screens/winner.png" width="600" height="400">
+<img src="screens/looser.png" width="600" height="400">
